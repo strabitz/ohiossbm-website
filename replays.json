@@ -18523,7 +18523,7 @@
         {
           "name": "Zetts",
           "characters": [
-            "but tipsy"
+            "Falcon"
           ]
         }
       ],
@@ -18579,7 +18579,7 @@
         {
           "name": "Zetts",
           "characters": [
-            "but tipsy"
+            "Falcon"
           ]
         }
       ],
@@ -21303,8 +21303,7 @@
         {
           "name": "Lopez",
           "characters": [
-            "R",
-            "om"
+            "Random"
           ]
         }
       ],
@@ -22464,8 +22463,7 @@
         {
           "name": "Lopez",
           "characters": [
-            "R",
-            "om"
+            "Random"
           ]
         }
       ]
@@ -22522,8 +22520,7 @@
         {
           "name": "Lopez",
           "characters": [
-            "R",
-            "om"
+            "Random"
           ]
         }
       ]
@@ -23592,9 +23589,9 @@
       ],
       [
         {
-          "name": "Blood Giver",
+          "name": "Altan",
           "characters": [
-            "Altan"
+            "Marth"
           ]
         }
       ]
@@ -23620,9 +23617,9 @@
       ],
       [
         {
-          "name": "Blood Giver",
+          "name": "Altan",
           "characters": [
-            "Altan"
+            "Marth"
           ]
         }
       ]
@@ -23648,9 +23645,9 @@
       ],
       [
         {
-          "name": "Blood Giver",
+          "name": "Altan",
           "characters": [
-            "Altan"
+            "Marth"
           ]
         }
       ]
@@ -23760,9 +23757,9 @@
       ],
       [
         {
-          "name": "Blood Giver",
+          "name": "Altan",
           "characters": [
-            "Altan"
+            "Marth"
           ]
         }
       ]
@@ -23788,9 +23785,9 @@
       ],
       [
         {
-          "name": "Blood Giver",
+          "name": "Altan",
           "characters": [
-            "Altan"
+            "Marth"
           ]
         }
       ]
@@ -23872,9 +23869,9 @@
       ],
       [
         {
-          "name": "Blood Giver",
+          "name": "Altan",
           "characters": [
-            "Altan"
+            "Marth"
           ]
         }
       ]
@@ -23900,9 +23897,9 @@
       ],
       [
         {
-          "name": "Blood Giver",
+          "name": "Altan",
           "characters": [
-            "Altan"
+            "Marth"
           ]
         }
       ]
@@ -24735,7 +24732,7 @@
     "sides": [
       [
         {
-          "name": " Team Nick",
+          "name": "Team Nick",
           "characters": [
             "Puff"
           ]
@@ -24763,7 +24760,7 @@
     "sides": [
       [
         {
-          "name": " Snap",
+          "name": "Snap",
           "characters": [
             "Sheik"
           ]
@@ -24791,7 +24788,7 @@
     "sides": [
       [
         {
-          "name": " Seraph",
+          "name": "Seraph",
           "characters": [
             "Fox"
           ]
@@ -24819,7 +24816,7 @@
     "sides": [
       [
         {
-          "name": " Livewire",
+          "name": "Livewire",
           "characters": [
             "Puff"
           ]
@@ -24847,7 +24844,7 @@
     "sides": [
       [
         {
-          "name": " Gemeni",
+          "name": "Gemeni",
           "characters": [
             "Falco"
           ]
@@ -24875,7 +24872,7 @@
     "sides": [
       [
         {
-          "name": " Fooly",
+          "name": "Fooly",
           "characters": [
             "Falco"
           ]
@@ -24903,7 +24900,7 @@
     "sides": [
       [
         {
-          "name": " Fooly",
+          "name": "Fooly",
           "characters": [
             "Falco"
           ]
@@ -24931,7 +24928,7 @@
     "sides": [
       [
         {
-          "name": " FLCL",
+          "name": "FLCL",
           "characters": [
             "Falco"
           ]
@@ -24959,7 +24956,7 @@
     "sides": [
       [
         {
-          "name": " Fizzle",
+          "name": "Fizzle",
           "characters": [
             "Puff"
           ]
@@ -24987,7 +24984,7 @@
     "sides": [
       [
         {
-          "name": " Drephen",
+          "name": "Drephen",
           "characters": [
             "Fox"
           ]
@@ -25015,7 +25012,7 @@
     "sides": [
       [
         {
-          "name": " Bif",
+          "name": "Bif",
           "characters": [
             "Falcon"
           ]
@@ -25211,9 +25208,9 @@
     "sides": [
       [
         {
-          "name": "LF",
+          "name": "Tylonle",
           "characters": [
-            "Tylonle"
+            "Fox"
           ]
         }
       ],
@@ -26486,7 +26483,7 @@
         {
           "name": "Papa",
           "characters": [
-            "IC's"
+            "ICs"
           ]
         }
       ],
@@ -26543,7 +26540,7 @@
         {
           "name": "Papa",
           "characters": [
-            "IC's"
+            "ICs"
           ]
         }
       ],
@@ -29313,15 +29310,15 @@
     "sides": [
       [
         {
-          "name": "LR1",
+          "name": "Nak",
           "characters": [
-            "Link"
+            "Sheik"
           ]
         }
       ],
       [
         {
-          "name": "en",
+          "name": "Linken",
           "characters": [
             "Marth"
           ]
@@ -31217,17 +31214,17 @@
     "sides": [
       [
         {
-          "name": "WR1",
+          "name": "Linken",
           "characters": [
-            "Link"
+            "Marth"
           ]
         }
       ],
       [
         {
-          "name": "en",
+          "name": "Swervey",
           "characters": [
-            "Marth"
+            "Fox"
           ]
         }
       ]
@@ -31777,15 +31774,15 @@
     "sides": [
       [
         {
-          "name": "LR2",
+          "name": "Zane W",
           "characters": [
-            "Link"
+            "Fox"
           ]
         }
       ],
       [
         {
-          "name": "en",
+          "name": "Linken",
           "characters": [
             "Marth"
           ]
@@ -33608,7 +33605,7 @@
       ],
       [
         {
-          "name": " XYK",
+          "name": "XYK",
           "characters": [
             "Luigi"
           ]
@@ -33636,7 +33633,7 @@
       ],
       [
         {
-          "name": " Xanmor",
+          "name": "Xanmor",
           "characters": [
             "Marth"
           ]
@@ -33664,7 +33661,7 @@
       ],
       [
         {
-          "name": " Persephone",
+          "name": "Persephone",
           "characters": [
             "Peach"
           ]
@@ -56352,7 +56349,7 @@
         {
           "name": "Celesti",
           "characters": [
-            "P1"
+            ""
           ]
         }
       ],
@@ -56360,7 +56357,7 @@
         {
           "name": "Rooktionary",
           "characters": [
-            "P3"
+            ""
           ]
         }
       ]
@@ -56408,7 +56405,7 @@
         {
           "name": "Jack",
           "characters": [
-            "P1"
+            ""
           ]
         }
       ],
@@ -56416,7 +56413,7 @@
         {
           "name": "Rooktionary",
           "characters": [
-            "P3"
+            ""
           ]
         }
       ]
@@ -56464,7 +56461,7 @@
         {
           "name": "Corkus",
           "characters": [
-            "P1"
+            ""
           ]
         }
       ],
@@ -56472,7 +56469,7 @@
         {
           "name": "DBSammy",
           "characters": [
-            "P2"
+            ""
           ]
         }
       ]
@@ -56843,7 +56840,7 @@
           "name": "Prince Abu",
           "characters": [
             "Fox",
-            "Green Goblin"
+            "Falcon"
           ]
         }
       ]
@@ -57369,7 +57366,7 @@
         {
           "name": "Animal",
           "characters": [
-            "P1"
+            ""
           ]
         }
       ],
@@ -57377,7 +57374,7 @@
         {
           "name": "Blacktician",
           "characters": [
-            "P2"
+            ""
           ]
         }
       ]
@@ -57593,7 +57590,7 @@
         {
           "name": "Rooktionary",
           "characters": [
-            "P3"
+            ""
           ]
         }
       ],
@@ -57601,7 +57598,7 @@
         {
           "name": "NaCl",
           "characters": [
-            "P1"
+            ""
           ]
         }
       ]
@@ -58479,7 +58476,7 @@
       ],
       [
         {
-          "name": "Bowser vs No Mud No Lotus",
+          "name": "No Mud No Lotus",
           "characters": [
             "Marth"
           ]
@@ -86008,7 +86005,7 @@
       ],
       [
         {
-          "name": "R",
+          "name": "R&R",
           "characters": [
             ""
           ]
@@ -86204,7 +86201,7 @@
       ],
       [
         {
-          "name": "R",
+          "name": "R&R",
           "characters": [
             ""
           ]
@@ -100368,7 +100365,7 @@
         {
           "name": "Dempt",
           "characters": [
-            "The Entire Cast"
+            "Random"
           ]
         }
       ],
@@ -102011,7 +102008,7 @@
         {
           "name": "Eggnawg",
           "characters": [
-            "Shiek"
+            "Sheik"
           ]
         }
       ],
@@ -104990,7 +104987,7 @@
       ],
       [
         {
-          "name": "Grandma's",
+          "name": "Grandma's Got Game",
           "characters": [
             ""
           ]
@@ -105102,7 +105099,7 @@
       ],
       [
         {
-          "name": "Grandma's",
+          "name": "Grandma's Got Game",
           "characters": [
             ""
           ]
@@ -110048,7 +110045,7 @@
     "sides": [
       [
         {
-          "name": "Loser's",
+          "name": "4%",
           "characters": [
             ""
           ]
@@ -119134,8 +119131,7 @@
         {
           "name": "Anchorite",
           "characters": [
-            "R",
-            "om"
+            "Random"
           ]
         }
       ]
@@ -119185,8 +119181,7 @@
           "characters": [
             "Sheik",
             "Falco",
-            "Game",
-            "Watch"
+            "GW"
           ]
         }
       ],
@@ -134092,7 +134087,7 @@
         {
           "name": "Fizzle",
           "characters": [
-            "Jiggs"
+            "Puff"
           ]
         }
       ],
@@ -137128,7 +137123,7 @@
         {
           "name": "Boated",
           "characters": [
-            "IC's"
+            "ICs"
           ]
         }
       ]
@@ -137240,7 +137235,7 @@
         {
           "name": "Boated",
           "characters": [
-            "IC's"
+            "ICs"
           ]
         }
       ]
@@ -137324,7 +137319,7 @@
         {
           "name": "Boated",
           "characters": [
-            "IC's"
+            "ICs"
           ]
         }
       ]
@@ -139097,35 +139092,6 @@
           "characters": [
             "Falco"
           ]
-        }
-      ]
-    ]
-  },
-  {
-    "id": 7837,
-    "youtubeId": "LloQtQ8FqX8",
-    "originalTitle": "Stormy Mondays 42 - RR - Fox vs Puff, DK",
-    "date": "2025-06-02",
-    "tournament": "Stormy Mondays 42",
-    "tags": [
-      "stormy"
-    ],
-    "replayType": "full",
-    "description": "",
-    "type": "singles",
-    "sides": [
-      [
-        {
-          "name": "Stormy Mondays 42 - RR - Fox",
-          "characters": [
-            "Fox"
-          ]
-        }
-      ],
-      [
-        {
-          "name": "Puff, DK",
-          "characters": []
         }
       ]
     ]
@@ -143099,7 +143065,7 @@
     "sides": [
       [
         {
-          "name": "= Turtleking",
+          "name": "Turtleking",
           "characters": []
         }
       ],
@@ -146492,7 +146458,7 @@
       ],
       [
         {
-          "name": "Thrive (banger alert)",
+          "name": "Thrive",
           "characters": []
         }
       ]
@@ -149517,7 +149483,7 @@
       ],
       [
         {
-          "name": "Suidt (kinda broke halfway through idk)",
+          "name": "Suidt",
           "characters": []
         }
       ]
@@ -149700,7 +149666,7 @@
     "sides": [
       [
         {
-          "name": "WR2 Squatch",
+          "name": "Squatch",
           "characters": []
         }
       ],
@@ -149727,7 +149693,7 @@
     "sides": [
       [
         {
-          "name": "WR2 Ashley",
+          "name": "Ashley",
           "characters": []
         }
       ],
@@ -149781,7 +149747,7 @@
     "sides": [
       [
         {
-          "name": "WR3 Squatch",
+          "name": "Squatch",
           "characters": []
         }
       ],
@@ -149808,7 +149774,7 @@
     "sides": [
       [
         {
-          "name": "WSF Sneker",
+          "name": "Sneker",
           "characters": []
         }
       ],
@@ -149835,7 +149801,7 @@
     "sides": [
       [
         {
-          "name": "WF Essy",
+          "name": "Essy",
           "characters": []
         }
       ],
@@ -149889,7 +149855,7 @@
     "sides": [
       [
         {
-          "name": "LSF NatureBoy",
+          "name": "NatureBoy",
           "characters": []
         }
       ],
@@ -149916,7 +149882,7 @@
     "sides": [
       [
         {
-          "name": "LF Essy",
+          "name": "Essy",
           "characters": []
         }
       ],
@@ -149943,7 +149909,7 @@
     "sides": [
       [
         {
-          "name": "GF Essy",
+          "name": "Essy",
           "characters": []
         }
       ],
@@ -159260,15 +159226,16 @@
     "sides": [
       [
         {
-          "name": "GAR 20 Singles - WQF - BY15",
+          "name": "BY15",
           "characters": [
-            "Marth"
+            "Marth",
+            "Zelda"
           ]
         }
       ],
       [
         {
-          "name": "Zelda vs Charlie Wu",
+          "name": "Charlie Wu",
           "characters": [
             "Fox"
           ]
@@ -159382,15 +159349,16 @@
     "sides": [
       [
         {
-          "name": "GAR 20 Singles - WR2 - ShotoNC",
+          "name": "ShotoNC",
           "characters": [
-            "Sheik"
+            "Sheik",
+            "Marth"
           ]
         }
       ],
       [
         {
-          "name": "Marth vs FantaDaGoat",
+          "name": "FantaDaGoat",
           "characters": [
             "Fox"
           ]
@@ -159677,15 +159645,16 @@
     "sides": [
       [
         {
-          "name": "GAR 20 Singles - WSF - Sarlo",
+          "name": "Sarlo",
           "characters": [
-            "Samus"
+            "Samus",
+            "Fox"
           ]
         }
       ],
       [
         {
-          "name": "Fox vs Free Palestine",
+          "name": "Free Palestine",
           "characters": [
             "Fox"
           ]
@@ -159705,7 +159674,7 @@
     "sides": [
       [
         {
-          "name": "GAR 20 Singles - WR2 - Mycologist",
+          "name": "Mycologist",
           "characters": [
             "Peach"
           ]
@@ -159733,15 +159702,16 @@
     "sides": [
       [
         {
-          "name": "GAR 20 Singles - WR2 - BY15",
+          "name": "BY15",
           "characters": [
-            "Sheik"
+            "Sheik",
+            "Marth"
           ]
         }
       ],
       [
         {
-          "name": "Marth vs Jester",
+          "name": "Jester",
           "characters": [
             "Falco"
           ]
@@ -159761,15 +159731,16 @@
     "sides": [
       [
         {
-          "name": "GAR 20 Singles - LR4 - ShotoNC",
+          "name": "ShotoNC",
           "characters": [
-            "Sheik"
+            "Sheik",
+            "Marth"
           ]
         }
       ],
       [
         {
-          "name": "Marth vs Upon",
+          "name": "Upon",
           "characters": [
             "Fox"
           ]
@@ -159852,7 +159823,7 @@
     "sides": [
       [
         {
-          "name": "GAR 20 Singles - LSF - BY15",
+          "name": "BY15",
           "characters": [
             "Marth"
           ]
@@ -159944,15 +159915,16 @@
     "sides": [
       [
         {
-          "name": "GAR 20 Singles - WR1 - raggedy",
+          "name": "raggedy",
           "characters": [
-            "Falco"
+            "Falco",
+            "Fox"
           ]
         }
       ],
       [
         {
-          "name": "Fox vs YKK",
+          "name": "YKK",
           "characters": [
             "Puff"
           ]
@@ -171213,36 +171185,6 @@
           "name": "Bodunga of the Pooplands",
           "characters": [
             "Peach"
-          ]
-        }
-      ]
-    ]
-  },
-  {
-    "id": 9065,
-    "tournament": "Gar 46",
-    "date": "2025-07-11",
-    "youtubeId": "zJ29m9mmqg8",
-    "originalTitle": "Gar #46 Melee Ammy — WR1 — Sheik ⟮, ＧＲＲＬ⟯ vs GW ⟮ＧＲＲＬ⟯",
-    "confidence": "high",
-    "tags": [
-      "gar"
-    ],
-    "type": "singles",
-    "sides": [
-      [
-        {
-          "name": "Sheik",
-          "characters": [
-            "ＧＲＲＬ"
-          ]
-        }
-      ],
-      [
-        {
-          "name": "GW",
-          "characters": [
-            "ＧＲＲＬ"
           ]
         }
       ]

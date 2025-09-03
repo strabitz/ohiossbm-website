@@ -227,7 +227,7 @@ const characterIcons = {
     sheik: "🥷",
     peach: "🍑",
     falcon: "🏎️",
-    jigglypuff: "🎈", puff: "🎈",
+    jigglypuff: "🎈", puff: "🎈", jiggs: "🎈",
     pikachu: "⚡️", pika: "⚡️",
     samus: "🚀",
     yoshi: "🦖",
@@ -246,7 +246,8 @@ const characterIcons = {
     pichu: "🔋",
     roy: "🔥",
     kirby: "⭐",
-    gnw: "🫥", gameandwatch: "🫥", gw: "🫥", gamewatch: "🫥"
+    gnw: "🫥", gameandwatch: "🫥", gw: "🫥", gamewatch: "🫥",
+    random: "❓"
 };
 
 // replay store
