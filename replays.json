@@ -191840,5 +191840,3387 @@
     "tags": [
       "scuffle2"
     ]
+  },
+  {
+    "id": 9805,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        },
+        {
+          "name": "Free Palestine",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Ghast",
+          "characters": []
+        },
+        {
+          "name": "Flow",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "u_JRBEfIiuE",
+    "originalTitle": "MITP Doubles — WQF — Ferriswheel, Free Palestine vs Ghast, Flow",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9806,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "ifjesusreturnskillagain",
+          "characters": []
+        },
+        {
+          "name": "Linco",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Rodney",
+          "characters": []
+        },
+        {
+          "name": "BRYN",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "u_Efr5MYWn8",
+    "originalTitle": "MITP Doubles — WR1 — ifjesusreturnskillagain, Linco vs Rodney, BRYN",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9807,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        },
+        {
+          "name": "Free Palestine",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Bann",
+          "characters": []
+        },
+        {
+          "name": "Jink",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "u08x0Z5pxZw",
+    "originalTitle": "MITP Doubles — LQF — Ferriswheel, Free Palestine vs Bann, Jink",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9808,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "Mr.Destruction",
+          "characters": []
+        },
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Jester",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "teif8TP4iOc",
+    "originalTitle": "MITP Doubles — WR1 — Mr.Destruction, Charlie Wu vs Jester, ShotoNC",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9809,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "Jester",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Ghast",
+          "characters": []
+        },
+        {
+          "name": "Flow",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "suve2UMwyw4",
+    "originalTitle": "MITP Doubles — LR2 — Jester, ShotoNC vs Ghast, Flow",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9810,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        },
+        {
+          "name": "Free Palestine",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "WAMatt",
+          "characters": []
+        },
+        {
+          "name": "The Blue Gentleman",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "qUEqtQdxlVU",
+    "originalTitle": "MITP Doubles — WSF — Ferriswheel, Free Palestine vs WAMatt, The Blue Gentleman",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9811,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "Drephen",
+          "characters": []
+        },
+        {
+          "name": "Boyd",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Bann",
+          "characters": []
+        },
+        {
+          "name": "Jink",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "pSu1nVRjX6g",
+    "originalTitle": "MITP Doubles — WQF — Drephen, Boyd vs Bann, Jink",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9812,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "Linco",
+          "characters": []
+        },
+        {
+          "name": "ifjesusreturnskillagain",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Jink",
+          "characters": []
+        },
+        {
+          "name": "Bann",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "huEO9iUBsDY",
+    "originalTitle": "MITP Doubles — LR2 — Linco, ifjesusreturnskillagain vs Jink, Bann",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9813,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "BRYN",
+          "characters": []
+        },
+        {
+          "name": "Rodney",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Palmolive",
+          "characters": []
+        },
+        {
+          "name": "Scotty",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "gS3S9-2vVDA",
+    "originalTitle": "MITP Doubles — WR1 — BRYN, Rodney vs Palmolive, Scotty",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9814,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "WAMatt",
+          "characters": []
+        },
+        {
+          "name": "The Blue Gentleman",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        },
+        {
+          "name": "Free Palestine",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "fTur8h2K_Qg",
+    "originalTitle": "MITP Doubles — LF — WAMatt, The Blue Gentleman vs Ferriswheel, Free Palestine",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9815,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "BRYN",
+          "characters": []
+        },
+        {
+          "name": "Rodney",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "WAMatt",
+          "characters": []
+        },
+        {
+          "name": "The Blue Gentleman",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "cCV3LRb7nQ0",
+    "originalTitle": "MITP Doubles — WQF — BRYN, Rodney vs WAMatt, The Blue Gentleman",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9816,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "Bann",
+          "characters": []
+        },
+        {
+          "name": "Jink",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Mr.Destruction",
+          "characters": []
+        },
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "ZBsX1H3jWlo",
+    "originalTitle": "MITP Doubles — LR3 — Bann, Jink vs Mr.Destruction, Charlie Wu",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9817,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "Holiday",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Drephen",
+          "characters": []
+        },
+        {
+          "name": "Boyd",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "Xt08FT-WjyI",
+    "originalTitle": "MITP Doubles — WSF — STUNNER VETERAN, Holiday vs Drephen, Boyd",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9818,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "Ghast",
+          "characters": []
+        },
+        {
+          "name": "Flow",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "POZ",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "WIWKsvzgP-Q",
+    "originalTitle": "MITP Doubles — WR1 — Ghast, Flow vs POZ, CD",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9819,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "Mr.Destruction",
+          "characters": []
+        },
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "Holiday",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "VegfUZ_-usE",
+    "originalTitle": "MITP Doubles — WQF — Mr.Destruction, Charlie Wu vs STUNNER VETERAN, Holiday",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9820,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "iphone",
+          "characters": []
+        },
+        {
+          "name": "MISTER BUSINESSPERSON",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Jink",
+          "characters": []
+        },
+        {
+          "name": "Bann",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "MnJao5SqAMM",
+    "originalTitle": "MITP Doubles — WR1 — iphone, MISTER BUSINESSPERSON vs Jink, Bann",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9821,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "The Blue Gentleman",
+          "characters": []
+        },
+        {
+          "name": "WAMatt",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Drephen",
+          "characters": []
+        },
+        {
+          "name": "Boyd",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "MKTYpfbrenE",
+    "originalTitle": "MITP Doubles — WF — The Blue Gentleman, WAMatt vs Drephen, Boyd",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9822,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        },
+        {
+          "name": "Free Palestine",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Flow",
+          "characters": []
+        },
+        {
+          "name": "Ghast",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "LH4gp0ifhs8",
+    "originalTitle": "MITP Doubles — LSF — Ferriswheel, Free Palestine vs Flow, Ghast",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9823,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "ifjesusreturnskillagain",
+          "characters": []
+        },
+        {
+          "name": "Linco",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "WAMatt",
+          "characters": []
+        },
+        {
+          "name": "The Blue Gentleman",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "IBhjuepX1bE",
+    "originalTitle": "MITP Doubles — WR1 — ifjesusreturnskillagain, Linco vs WAMatt, The Blue Gentleman",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9824,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "Linco",
+          "characters": []
+        },
+        {
+          "name": "ifjesusreturnskillagain",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Palmolive",
+          "characters": []
+        },
+        {
+          "name": "Scotty",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "CdWywkIGzmE",
+    "originalTitle": "MITP Doubles — LR1 — Linco, ifjesusreturnskillagain vs Palmolive, Scotty",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9825,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "POZ",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "Mr.Destruction",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "8oUvhYXaYZY",
+    "originalTitle": "MITP Doubles — LR2 — POZ, CD vs Charlie Wu, Mr.Destruction",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9826,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "Drephen",
+          "characters": []
+        },
+        {
+          "name": "Boyd",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "WAMatt",
+          "characters": []
+        },
+        {
+          "name": "The Blue Gentleman",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "8M1sW0ZdJ1E",
+    "originalTitle": "MITP Doubles — GF — Drephen, Boyd, vs WAMatt, The Blue Gentleman",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9827,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "Holiday",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Ghast",
+          "characters": []
+        },
+        {
+          "name": "Flow",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "3-ZHRT-7a7c",
+    "originalTitle": "MITP Doubles — LQF — STUNNER VETERAN, Holiday vs Ghast, Flow",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9828,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "Ghast",
+          "characters": []
+        },
+        {
+          "name": "Flow",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "BRYN",
+          "characters": []
+        },
+        {
+          "name": "Rodney",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "1dh_Q7P6md4",
+    "originalTitle": "MITP Doubles — LR3 — Ghast, Flow vs BRYN, Rodney",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9829,
+    "type": "doubles",
+    "tournament": "MITP",
+    "date": "2025-07-15",
+    "sides": [
+      [
+        {
+          "name": "Rodney",
+          "characters": []
+        },
+        {
+          "name": "BRYN",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "MISTER BUSINESSPERSON",
+          "characters": []
+        },
+        {
+          "name": "iphone",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "1Vh7Tc3kZ3I",
+    "originalTitle": "MITP Doubles — LR2 — Rodney, BRYN vs MISTER BUSINESSPERSON, iphone",
+    "confidence": "high",
+    "tags": [
+      "mitp"
+    ]
+  },
+  {
+    "id": 9830,
+    "type": "doubles",
+    "tournament": "Gar 42",
+    "date": "2025-06-11",
+    "sides": [
+      [
+        {
+          "name": "grassman",
+          "characters": []
+        },
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "altan",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "se4liV1V-ZU",
+    "originalTitle": "Gar #42 Melee Doubles — GF — grassman, Bodunga of the Pooplands vs BY15, altan",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9831,
+    "type": "doubles",
+    "tournament": "Gar 42",
+    "date": "2025-06-11",
+    "sides": [
+      [
+        {
+          "name": "MISTER BUSINESSPERSON",
+          "characters": []
+        },
+        {
+          "name": "Boom",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "Jester",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "pXhLO2U42PU",
+    "originalTitle": "Gar #42 Melee Doubles — LQF — MISTER BUSINESSPERSON, Boom vs Charlie Wu, Jester",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9832,
+    "type": "doubles",
+    "tournament": "Gar 42",
+    "date": "2025-06-11",
+    "sides": [
+      [
+        {
+          "name": "iphone",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "altan",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "dSNPKeNTksA",
+    "originalTitle": "Gar #42 Melee Doubles — WSF — iphone, ShotoNC vs BY15, altan",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9833,
+    "type": "doubles",
+    "tournament": "Gar 42",
+    "date": "2025-06-11",
+    "sides": [
+      [
+        {
+          "name": "grassman",
+          "characters": []
+        },
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Jester",
+          "characters": []
+        },
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "Pg7yd6squMs",
+    "originalTitle": "Gar #42 Melee Doubles — LF — grassman, Bodunga of the Pooplands vs Jester, Charlie Wu",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9834,
+    "type": "doubles",
+    "tournament": "Gar 42",
+    "date": "2025-06-11",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "altan",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "kenstink",
+          "characters": []
+        },
+        {
+          "name": "Bajur",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "NuHWTIL1i1c",
+    "originalTitle": "Gar #42 Melee Doubles — WQF — BY15, altan vs kenstink, Bajur",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9835,
+    "type": "doubles",
+    "tournament": "Gar 42",
+    "date": "2025-06-11",
+    "sides": [
+      [
+        {
+          "name": "iphone",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Jester",
+          "characters": []
+        },
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "M2fJMq41UAg",
+    "originalTitle": "Gar #42 Melee Doubles — WQF — iphone, ShotoNC vs Jester, Charlie Wu",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9836,
+    "type": "doubles",
+    "tournament": "Gar 42",
+    "date": "2025-06-11",
+    "sides": [
+      [
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        },
+        {
+          "name": "grassman",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Boom",
+          "characters": []
+        },
+        {
+          "name": "MISTER BUSINESSPERSON",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "6gotFyP9HEA",
+    "originalTitle": "Gar #42 Melee Doubles — WSF — Bodunga of the Pooplands, grassman vs Boom, MISTER BUSINESSPERSON",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9837,
+    "type": "doubles",
+    "tournament": "Gar 42",
+    "date": "2025-06-11",
+    "sides": [
+      [
+        {
+          "name": "dark beast",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "iphone",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "zF__1yJzo9w",
+    "originalTitle": "Gar #42 Melee Doubles — LQF — dark beast, CD vs iphone, ShotoNC",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9838,
+    "type": "doubles",
+    "tournament": "Gar 41",
+    "date": "2025-06-10",
+    "sides": [
+      [
+        {
+          "name": "Holiday",
+          "characters": []
+        },
+        {
+          "name": "Boom",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "uZ7PAIpTXHo",
+    "originalTitle": "Gar #41 Melee Doubles — WSF — Holiday, Boom vs Charlie Wu, ShotoNC",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9839,
+    "type": "doubles",
+    "tournament": "Gar 41",
+    "date": "2025-06-10",
+    "sides": [
+      [
+        {
+          "name": "Boom",
+          "characters": []
+        },
+        {
+          "name": "Holiday",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "ihXW2e1le6k",
+    "originalTitle": "Gar #41 Melee Doubles — GF — Boom, Holiday vs Charlie Wu, ShotoNC",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9840,
+    "type": "doubles",
+    "tournament": "Gar 41",
+    "date": "2025-06-10",
+    "sides": [
+      [
+        {
+          "name": "BluePlayer",
+          "characters": []
+        },
+        {
+          "name": "Bope!",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Boom",
+          "characters": []
+        },
+        {
+          "name": "Holiday",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "seM0bLREWhk",
+    "originalTitle": "Gar #41 Melee Doubles — WQF — BluePlayer, Bope! vs Boom, Holiday",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9841,
+    "type": "doubles",
+    "tournament": "Gar 41",
+    "date": "2025-06-10",
+    "sides": [
+      [
+        {
+          "name": "Jester",
+          "characters": []
+        },
+        {
+          "name": "DocAwk",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "wTxA3fHzq-E",
+    "originalTitle": "Gar #41 Melee Doubles — WQF — Jester, DocAwk vs Charlie Wu, ShotoNC",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9842,
+    "type": "doubles",
+    "tournament": "Gar 41",
+    "date": "2025-06-10",
+    "sides": [
+      [
+        {
+          "name": "iphone",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Bope!",
+          "characters": []
+        },
+        {
+          "name": "BluePlayer",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "nJ4aRzpS6IE",
+    "originalTitle": "Gar #41 Melee Doubles — LQF — iphone, CD vs Bope!, BluePlayer",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9843,
+    "type": "doubles",
+    "tournament": "Gar 41",
+    "date": "2025-06-10",
+    "sides": [
+      [
+        {
+          "name": "Visible Forklift",
+          "characters": []
+        },
+        {
+          "name": "Banana Man",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Bope!",
+          "characters": []
+        },
+        {
+          "name": "BluePlayer",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "pFssiklrDvI",
+    "originalTitle": "Gar #41 Melee Doubles — LR2 — Visible Forklift, Banana Man vs Bope!, BluePlayer",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9844,
+    "type": "doubles",
+    "tournament": "Gar 41",
+    "date": "2025-06-10",
+    "sides": [
+      [
+        {
+          "name": "Palmolive",
+          "characters": []
+        },
+        {
+          "name": "Hundred",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Visible Forklift",
+          "characters": []
+        },
+        {
+          "name": "Banana Man",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "rvP9apYXino",
+    "originalTitle": "Gar #41 Melee Doubles — WR1 — Palmolive, Hundred vs Visible Forklift, Banana Man",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9845,
+    "type": "doubles",
+    "tournament": "Gar 41",
+    "date": "2025-06-10",
+    "sides": [
+      [
+        {
+          "name": "Boom",
+          "characters": []
+        },
+        {
+          "name": "Holiday",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "StTpKqPbzSg",
+    "originalTitle": "Gar #41 Melee Doubles — GFR — Boom, Holiday vs Charlie Wu, ShotoNC",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9846,
+    "type": "doubles",
+    "tournament": "Gar 41",
+    "date": "2025-06-10",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "CD",
+          "characters": []
+        },
+        {
+          "name": "iphone",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "TQQtnfUutpQ",
+    "originalTitle": "Gar #41 Melee Doubles — WSF — BY15, Ferriswheel vs CD, iphone",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9847,
+    "type": "doubles",
+    "tournament": "Gar 41",
+    "date": "2025-06-10",
+    "sides": [
+      [
+        {
+          "name": "DocAwk",
+          "characters": []
+        },
+        {
+          "name": "Jester",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Visible Forklift",
+          "characters": []
+        },
+        {
+          "name": "Banana Man",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "ck_leyoZ584",
+    "originalTitle": "Gar #41 Melee Doubles — LR1 — DocAwk, Jester vs Visible Forklift, Banana Man",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9848,
+    "type": "doubles",
+    "tournament": "Gar 41",
+    "date": "2025-06-10",
+    "sides": [
+      [
+        {
+          "name": "dark beast",
+          "characters": []
+        },
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "ShotoNC",
+          "characters": []
+        },
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "em9XOMpBvs0",
+    "originalTitle": "Gar #41 Melee Doubles — LQF — dark beast, STUNNER VETERAN vs  ShotoNC, Charlie Wu",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9849,
+    "type": "doubles",
+    "tournament": "Gar 41",
+    "date": "2025-06-10",
+    "sides": [
+      [
+        {
+          "name": "Palmolive",
+          "characters": []
+        },
+        {
+          "name": "Hundred",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        },
+        {
+          "name": "BY15",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "GL5tTbECChU",
+    "originalTitle": "Gar #41 Melee Doubles — WQF — Palmolive, Hundred vs Ferriswheel, BY15",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9850,
+    "type": "doubles",
+    "tournament": "Gar 41",
+    "date": "2025-06-10",
+    "sides": [
+      [
+        {
+          "name": "dark beast",
+          "characters": []
+        },
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Hundred",
+          "characters": []
+        },
+        {
+          "name": "Palmolive",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "GLasrAWbWQU",
+    "originalTitle": "Gar #41 Melee Doubles — LR2 — dark beast, STUNNER VETERAN vs Hundred, Palmolive",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9851,
+    "type": "doubles",
+    "tournament": "Gar 41",
+    "date": "2025-06-10",
+    "sides": [
+      [
+        {
+          "name": "dark beast",
+          "characters": []
+        },
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "iphone",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "GOC3THWmNF4",
+    "originalTitle": "Gar #41 Melee Doubles — WQF — dark beast, STUNNER VETERAN vs iphone, CD",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9852,
+    "type": "doubles",
+    "tournament": "Gar 41",
+    "date": "2025-06-10",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "QkyHaFfH0zI",
+    "originalTitle": "Gar #41 Melee Doubles — LF — BY15, Ferriswheel vs Charlie Wu, ShotoNC",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9853,
+    "type": "doubles",
+    "tournament": "Gar 41",
+    "date": "2025-06-10",
+    "sides": [
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "CD",
+          "characters": []
+        },
+        {
+          "name": "iphone",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "9lkeqg4oUeI",
+    "originalTitle": "Gar #41 Melee Doubles — LSF — Charlie Wu, ShotoNC vs CD, iphone",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9854,
+    "type": "doubles",
+    "tournament": "Gar 52",
+    "date": "2025-08-20",
+    "sides": [
+      [
+        {
+          "name": "iphone",
+          "characters": []
+        },
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Jester",
+          "characters": []
+        },
+        {
+          "name": "Jeo",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "9xP28uimm0E",
+    "originalTitle": "Gar #52 Melee Doubles — LQF — iphone, STUNNER VETERAN vs Jester, Jeo",
+    "confidence": "high",
+    "tags": [
+      "scuffle2"
+    ]
+  },
+  {
+    "id": 9855,
+    "type": "doubles",
+    "tournament": "Gar 52",
+    "date": "2025-08-20",
+    "sides": [
+      [
+        {
+          "name": "Jeo",
+          "characters": []
+        },
+        {
+          "name": "Jester",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "ragglor",
+          "characters": []
+        },
+        {
+          "name": "Nibbler",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "C23pRv8Sy_w",
+    "originalTitle": "Gar #52 Melee Doubles — LR1 — Jeo, Jester vs ragglor, Nibbler",
+    "confidence": "high",
+    "tags": [
+      "scuffle2"
+    ]
+  },
+  {
+    "id": 9856,
+    "type": "doubles",
+    "tournament": "Gar 52",
+    "date": "2025-08-20",
+    "sides": [
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "iphone",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        },
+        {
+          "name": "Boom",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "ofviTWiDTHY",
+    "originalTitle": "Gar #52 Melee Doubles — LF — STUNNER VETERAN, iphone vs Bodunga of the Pooplands, Boom",
+    "confidence": "high",
+    "tags": [
+      "scuffle2"
+    ]
+  },
+  {
+    "id": 9857,
+    "type": "doubles",
+    "tournament": "Gar 52",
+    "date": "2025-08-20",
+    "sides": [
+      [
+        {
+          "name": "CD",
+          "characters": []
+        },
+        {
+          "name": "LexJ",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Boom",
+          "characters": []
+        },
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "v4Wgfa-aK5I",
+    "originalTitle": "Gar #52 Melee Doubles — WQF — CD, LexJ vs Boom, Bodunga of the Pooplands",
+    "confidence": "high",
+    "tags": [
+      "gar",
+      "gar52"
+    ]
+  },
+  {
+    "id": 9858,
+    "type": "doubles",
+    "tournament": "Gar 52",
+    "date": "2025-08-20",
+    "sides": [
+      [
+        {
+          "name": "Jester",
+          "characters": []
+        },
+        {
+          "name": "Jeo",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "dark beast",
+          "characters": []
+        },
+        {
+          "name": "tomdollars",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "ysmtbtcOjBM",
+    "originalTitle": "Gar #52 Melee Doubles — WQF — Jester, Jeo vs dark beast, tomdollars",
+    "confidence": "high",
+    "tags": [
+      "gar",
+      "gar52"
+    ]
+  },
+  {
+    "id": 9859,
+    "type": "doubles",
+    "tournament": "Gar 52",
+    "date": "2025-08-20",
+    "sides": [
+      [
+        {
+          "name": "Not Till 4",
+          "characters": []
+        },
+        {
+          "name": "Swervey",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "LexJ",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "g9hY44EfEFw",
+    "originalTitle": "Gar #52 Melee Doubles — LR1 — Not Till 4, Swervey vs LexJ, CD",
+    "confidence": "high",
+    "tags": [
+      "gar",
+      "gar52"
+    ]
+  },
+  {
+    "id": 9860,
+    "type": "doubles",
+    "tournament": "Gar 52",
+    "date": "2025-08-20",
+    "sides": [
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "iphone",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Boom",
+          "characters": []
+        },
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "gjDO1_c0kas",
+    "originalTitle": "Gar #52 Melee Doubles — WSF — STUNNER VETERAN, iphone vs Boom, Bodunga of the Pooplands",
+    "confidence": "high",
+    "tags": [
+      "gar",
+      "gar52"
+    ]
+  },
+  {
+    "id": 9861,
+    "type": "doubles",
+    "tournament": "Gar 52",
+    "date": "2025-08-20",
+    "sides": [
+      [
+        {
+          "name": "Free Palestine",
+          "characters": []
+        },
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "tomdollars",
+          "characters": []
+        },
+        {
+          "name": "dark beast",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "jEWg19G5j64",
+    "originalTitle": "Gar #52 Melee Doubles — WSF — Free Palestine, Ferriswheel vs tomdollars, dark beast",
+    "confidence": "high",
+    "tags": [
+      "gar",
+      "gar52"
+    ]
+  },
+  {
+    "id": 9862,
+    "type": "doubles",
+    "tournament": "Gar 52",
+    "date": "2025-08-20",
+    "sides": [
+      [
+        {
+          "name": "Free Palestine",
+          "characters": []
+        },
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Nibbler",
+          "characters": []
+        },
+        {
+          "name": "ragglor",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "J4x72ALUljg",
+    "originalTitle": "Gar #52 Melee Doubles — WR1 — Free Palestine, Ferriswheel vs Nibbler, ragglor",
+    "confidence": "high",
+    "tags": [
+      "gar",
+      "gar52"
+    ]
+  },
+  {
+    "id": 9863,
+    "type": "doubles",
+    "tournament": "Gar 52",
+    "date": "2025-08-20",
+    "sides": [
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "iphone",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "tomdollars",
+          "characters": []
+        },
+        {
+          "name": "dark beast",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "3yHXmM_5k-I",
+    "originalTitle": "Gar #52 Melee Doubles — LSF — STUNNER VETERAN, iphone vs tomdollars, dark beast",
+    "confidence": "high",
+    "tags": [
+      "gar",
+      "gar52"
+    ]
+  },
+  {
+    "id": 9864,
+    "type": "doubles",
+    "tournament": "Gar 52",
+    "date": "2025-08-20",
+    "sides": [
+      [
+        {
+          "name": "Not Till 4",
+          "characters": []
+        },
+        {
+          "name": "Swervey",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "iphone",
+          "characters": []
+        },
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "4zUUKzw6Z8A",
+    "originalTitle": "Gar #52 Melee Doubles — WQF — Not Till 4, Swervey vs iphone, STUNNER VETERAN",
+    "confidence": "high",
+    "tags": [
+      "gar",
+      "gar52"
+    ]
+  },
+  {
+    "id": 9865,
+    "type": "doubles",
+    "tournament": "Gar 52",
+    "date": "2025-08-20",
+    "sides": [
+      [
+        {
+          "name": "Free Palestine",
+          "characters": []
+        },
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Boom",
+          "characters": []
+        },
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "5XCHO1nhaAA",
+    "originalTitle": "Gar #52 Melee Doubles — GF — Free Palestine, Ferriswheel vs Boom, Bodunga of the Pooplands",
+    "confidence": "high",
+    "tags": [
+      "gar",
+      "gar52"
+    ]
+  },
+  {
+    "id": 9866,
+    "type": "doubles",
+    "tournament": "Gar 52",
+    "date": "2025-08-20",
+    "sides": [
+      [
+        {
+          "name": "Free Palestine",
+          "characters": []
+        },
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Boom",
+          "characters": []
+        },
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "CVX9vDleAqM",
+    "originalTitle": "Gar #52 Melee Doubles — WF — Free Palestine, Ferriswheel vs Boom, Bodunga of the Pooplands",
+    "confidence": "high",
+    "tags": [
+      "gar",
+      "gar52"
+    ]
+  },
+  {
+    "id": 9867,
+    "type": "doubles",
+    "tournament": "Scuffle",
+    "date": "2025-05-26",
+    "sides": [
+      [
+        {
+          "name": "surfs up",
+          "characters": []
+        },
+        {
+          "name": "Holiday",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "ej9qiCFlxwQ",
+    "originalTitle": "Scuffle Doubles — WSF — surfs up, Holiday vs Bodunga of the Pooplands, ShotoNC",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9868,
+    "type": "doubles",
+    "tournament": "Scuffle",
+    "date": "2025-05-26",
+    "sides": [
+      [
+        {
+          "name": "Boom",
+          "characters": []
+        },
+        {
+          "name": "cloink",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "pfIyipe48FI",
+    "originalTitle": "Scuffle Doubles — WQF — Boom, cloink vs Bodunga of the Pooplands, ShotoNC",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9869,
+    "type": "doubles",
+    "tournament": "Scuffle",
+    "date": "2025-05-26",
+    "sides": [
+      [
+        {
+          "name": "Free Palestine",
+          "characters": []
+        },
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "rMABZS0jrTM",
+    "originalTitle": "Scuffle Doubles — WQF — Free Palestine, Ferriswheel vs STUNNER VETERAN, Charlie Wu",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9870,
+    "type": "doubles",
+    "tournament": "Scuffle",
+    "date": "2025-05-26",
+    "sides": [
+      [
+        {
+          "name": "Holiday",
+          "characters": []
+        },
+        {
+          "name": "surfs up",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "fuelperks",
+          "characters": []
+        },
+        {
+          "name": "The Hog",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "2HGUVTqiUxU",
+    "originalTitle": "Scuffle Doubles — WR1 — Holiday, surfs up vs fuelperks, The Hog",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9871,
+    "type": "doubles",
+    "tournament": "Scuffle",
+    "date": "2025-05-26",
+    "sides": [
+      [
+        {
+          "name": "Free Palestine",
+          "characters": []
+        },
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Holiday",
+          "characters": []
+        },
+        {
+          "name": "surfs up",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "BX3O1fV-_h0",
+    "originalTitle": "Scuffle Doubles — WF — Free Palestine, Ferriswheel vs Holiday, surfs up",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9872,
+    "type": "doubles",
+    "tournament": "Scuffle",
+    "date": "2025-05-26",
+    "sides": [
+      [
+        {
+          "name": "Free Palestine",
+          "characters": []
+        },
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Ghast",
+          "characters": []
+        },
+        {
+          "name": "Jink",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "DFoAAvQiA68",
+    "originalTitle": "Scuffle Doubles — WSF — Free Palestine, Ferriswheel vs Ghast, Jink",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9873,
+    "type": "doubles",
+    "tournament": "Scuffle",
+    "date": "2025-05-26",
+    "sides": [
+      [
+        {
+          "name": "POZ",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "vyv",
+          "characters": []
+        },
+        {
+          "name": "wizardbones",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "DJFamwHLne0",
+    "originalTitle": "Scuffle Doubles — WR1 — POZ, CD vs vyv, wizardbones",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9874,
+    "type": "doubles",
+    "tournament": "Scuffle",
+    "date": "2025-05-26",
+    "sides": [
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "POZ",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "DhvvdiMWxa0",
+    "originalTitle": "Scuffle Doubles — LR3 — STUNNER VETERAN, Charlie Wu vs POZ, CD",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9875,
+    "type": "doubles",
+    "tournament": "Scuffle",
+    "date": "2025-05-26",
+    "sides": [
+      [
+        {
+          "name": "Holiday",
+          "characters": []
+        },
+        {
+          "name": "surfs up",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "M1sf1re",
+          "characters": []
+        },
+        {
+          "name": "Thrive",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "FTDIB7jxMSk",
+    "originalTitle": "Scuffle Doubles — WQF — Holiday, surfs up vs M1sf1re, Thrive",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9876,
+    "type": "doubles",
+    "tournament": "Scuffle",
+    "date": "2025-05-26",
+    "sides": [
+      [
+        {
+          "name": "POZ",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Jink",
+          "characters": []
+        },
+        {
+          "name": "Ghast",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "KVt87epQCso",
+    "originalTitle": "Scuffle Doubles — WQF — POZ, CD vs Jink, Ghast",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9877,
+    "type": "doubles",
+    "tournament": "Scuffle",
+    "date": "2025-05-26",
+    "sides": [
+      [
+        {
+          "name": "Palmolive",
+          "characters": []
+        },
+        {
+          "name": "Scotty",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Ghast",
+          "characters": []
+        },
+        {
+          "name": "Jink",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "bG8LOmVPmWA",
+    "originalTitle": "Scuffle Doubles — WR1 — Palmolive, Scotty vs Ghast, Jink",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9878,
+    "type": "doubles",
+    "tournament": "Scuffle",
+    "date": "2025-05-26",
+    "sides": [
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "iphone",
+          "characters": []
+        },
+        {
+          "name": "dark beast",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "coKXPHtQcjA",
+    "originalTitle": "Scuffle Doubles — WR1 — STUNNER VETERAN, Charlie Wu vs iphone, dark beast",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9879,
+    "type": "doubles",
+    "tournament": "Gar 38",
+    "date": "2025-05-14",
+    "sides": [
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "dark beast",
+          "characters": []
+        },
+        {
+          "name": "Jeo",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "kA5qLHZPTkc",
+    "originalTitle": "Gar #38 Melee Doubles - LQF - STUNNER VETERAN, CD vs dark beast, Jeo",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9880,
+    "type": "doubles",
+    "tournament": "Gar 38",
+    "date": "2025-05-14",
+    "sides": [
+      [
+        {
+          "name": "FilthyLilGoblin",
+          "characters": []
+        },
+        {
+          "name": "Boom",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Jeo",
+          "characters": []
+        },
+        {
+          "name": "dark beast",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "ztswMv_GL1o",
+    "originalTitle": "Gar #38 Melee Doubles - LR1 - FilthyLilGoblin, Boom vs Jeo, dark beast",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9881,
+    "type": "doubles",
+    "tournament": "Gar 38",
+    "date": "2025-05-14",
+    "sides": [
+      [
+        {
+          "name": "MISTER BUSINESSPERSON",
+          "characters": []
+        },
+        {
+          "name": "Syntaques",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Majin Bobby",
+          "characters": []
+        },
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "Tx2owYXxbHY",
+    "originalTitle": "Gar #38 Melee Doubles - LF - MISTER BUSINESSPERSON, Syntaques vs Majin Bobby, Charlie Wu",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9882,
+    "type": "doubles",
+    "tournament": "Gar 38",
+    "date": "2025-05-14",
+    "sides": [
+      [
+        {
+          "name": "iphone",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "Majin Bobby",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "hrfI_BLcaD8",
+    "originalTitle": "Gar #38 Melee Doubles - LQF - iphone, ShotoNC vs Charlie Wu, Majin Bobby",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9883,
+    "type": "doubles",
+    "tournament": "Gar 38",
+    "date": "2025-05-14",
+    "sides": [
+      [
+        {
+          "name": "MISTER BUSINESSPERSON",
+          "characters": []
+        },
+        {
+          "name": "Syntaques",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "dark beast",
+          "characters": []
+        },
+        {
+          "name": "Jeo",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "_ljzoXL1aac",
+    "originalTitle": "Gar #38 Melee Doubles - WQF - MISTER BUSINESSPERSON, Syntaques, vs dark beast, Jeo",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9884,
+    "type": "doubles",
+    "tournament": "Gar 38",
+    "date": "2025-05-14",
+    "sides": [
+      [
+        {
+          "name": "MISTER BUSINESSPERSON",
+          "characters": []
+        },
+        {
+          "name": "Syntaques",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "iphone",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "ZS5Ha2_0PH8",
+    "originalTitle": "Gar #38 Melee Doubles - WSF - MISTER BUSINESSPERSON, Syntaques vs iphone, ShotoNC",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9885,
+    "type": "doubles",
+    "tournament": "Gar 38",
+    "date": "2025-05-14",
+    "sides": [
+      [
+        {
+          "name": "dark beast",
+          "characters": []
+        },
+        {
+          "name": "Jeo",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "Majin Bobby",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "GvG-TGG5tZY",
+    "originalTitle": "Gar #38 Melee Doubles - LSF - dark beast, Jeo vs Charlie Wu, Majin Bobby",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9886,
+    "type": "doubles",
+    "tournament": "Gar 38",
+    "date": "2025-05-14",
+    "sides": [
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "IWQgsU42zoY",
+    "originalTitle": "Gar #38 Melee Doubles - WSF - STUNNER VETERAN, CD vs BY15, Ferriswheel",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9887,
+    "type": "doubles",
+    "tournament": "Gar 38",
+    "date": "2025-05-14",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Syntaques",
+          "characters": []
+        },
+        {
+          "name": "MISTER BUSINESSPERSON",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "JtvZmNIaGfY",
+    "originalTitle": "Gar #38 Melee Doubles - WF - BY15, Ferriswheel, vs Syntaques, MISTER BUSINESSPERSON",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9888,
+    "type": "doubles",
+    "tournament": "Gar 38",
+    "date": "2025-05-14",
+    "sides": [
+      [
+        {
+          "name": "FilthyLilGoblin",
+          "characters": []
+        },
+        {
+          "name": "Boom",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "iphone",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "DYeUWfWA4Ww",
+    "originalTitle": "Gar #38 Melee Doubles - WQF - FilthyLilGoblin, Boom vs iphone, ShotoNC",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9889,
+    "type": "doubles",
+    "tournament": "GAR 37",
+    "date": "2025-05-07",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "iphone",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "JJOi-ujQjmQ",
+    "originalTitle": "GAR 37 Doubles - LF - BY15, iphone vs Charlie Wu, CD",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9890,
+    "type": "doubles",
+    "tournament": "GAR 37",
+    "date": "2025-05-07",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "iphone",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "wdqp4vebzyM",
+    "originalTitle": "GAR 37 Doubles - GF - BY15, iphone vs Ferriswheel, ShotoNC",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9891,
+    "type": "doubles",
+    "tournament": "GAR 37",
+    "date": "2025-05-07",
+    "sides": [
+      [
+        {
+          "name": "Bope!",
+          "characters": []
+        },
+        {
+          "name": "BluePlayer",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "x6_5xdMDSwo",
+    "originalTitle": "GAR 37 Doubles - LQF - Bope!, BluePlayer vs Charlie Wu, CD",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9892,
+    "type": "doubles",
+    "tournament": "GAR 37",
+    "date": "2025-05-07",
+    "sides": [
+      [
+        {
+          "name": "BluePlayer",
+          "characters": []
+        },
+        {
+          "name": "Bope!",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "Jester",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "wNY8XaTSztU",
+    "originalTitle": "GAR 37 Doubles - WQF - BluePlayer, Bope! vs STUNNER VETERAN, Jester",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9893,
+    "type": "doubles",
+    "tournament": "GAR 37",
+    "date": "2025-05-07",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "iphone",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "i-Hoxw_6g04",
+    "originalTitle": "GAR 37 Doubles - WSF - BY15, iphone vs Charlie Wu, CD",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9894,
+    "type": "doubles",
+    "tournament": "GAR 37",
+    "date": "2025-05-07",
+    "sides": [
+      [
+        {
+          "name": "FilthyLilGoblin",
+          "characters": []
+        },
+        {
+          "name": "No Mud No Lotus",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "XOrZmRA7EF8",
+    "originalTitle": "GAR 37 Doubles - WQF - FilthyLilGoblin, No Mud No Lotus vs Charlie Wu, CD",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9895,
+    "type": "doubles",
+    "tournament": "GAR 37",
+    "date": "2025-05-07",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "iphone",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "YxtdyxqT5KQ",
+    "originalTitle": "GAR 37 Doubles - WF - BY15, iphone vs Ferriswheel, ShotoNC",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9896,
+    "type": "doubles",
+    "tournament": "GAR 37",
+    "date": "2025-05-07",
+    "sides": [
+      [
+        {
+          "name": "FilthyLilGoblin",
+          "characters": []
+        },
+        {
+          "name": "No Mud No Lotus",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "Jester",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "FIke02lDcDY",
+    "originalTitle": "GAR 37 Doubles - LQF - FilthyLilGoblin, No Mud No Lotus vs STUNNER VETERAN, Jester",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9897,
+    "type": "doubles",
+    "tournament": "GAR 37",
+    "date": "2025-05-07",
+    "sides": [
+      [
+        {
+          "name": "CD",
+          "characters": []
+        },
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "Jester",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "GrGuldW7PuM",
+    "originalTitle": "GAR 37 Doubles - LSF - CD, Charlie Wu vs STUNNER VETERAN, Jester",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9898,
+    "type": "doubles",
+    "tournament": "GAR 37",
+    "date": "2025-05-07",
+    "sides": [
+      [
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "Jester",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "-zDtD63ygUk",
+    "originalTitle": "GAR 37 Doubles - WSF - Ferriswheel, ShotoNC vs STUNNER VETERAN, Jester",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9899,
+    "type": "doubles",
+    "tournament": "GAR 35",
+    "date": "2025-05-01",
+    "sides": [
+      [
+        {
+          "name": "POZ",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "ShotoNC",
+          "characters": []
+        },
+        {
+          "name": "Sarlo",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "wXZmZTcVTbI",
+    "originalTitle": "GAR 35 Doubles - LF - POZ, CD vs ShotoNC, Sarlo",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9900,
+    "type": "doubles",
+    "tournament": "GAR 35",
+    "date": "2025-05-01",
+    "sides": [
+      [
+        {
+          "name": "POZ",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "altan",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "wklGK3pIKBI",
+    "originalTitle": "GAR 35 Doubles - GF - POZ, CD vs BY15, altan",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9901,
+    "type": "doubles",
+    "tournament": "GAR 35",
+    "date": "2025-05-01",
+    "sides": [
+      [
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        },
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "june",
+          "characters": []
+        },
+        {
+          "name": "cz",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "ZXQOG6uqtCg",
+    "originalTitle": "GAR 35 Doubles - WQF - Ferriswheel, Charlie Wu vs june, cz",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9902,
+    "type": "doubles",
+    "tournament": "GAR 35",
+    "date": "2025-05-01",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "altan",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Sarlo",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "-MNd8e9FMXc",
+    "originalTitle": "GAR 35 Doubles - WF - BY15, altan vs Sarlo, ShotoNC",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9903,
+    "type": "doubles",
+    "tournament": "GAR 35",
+    "date": "2025-05-01",
+    "sides": [
+      [
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        },
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "Jeo",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "8GGZwvw0wYA",
+    "originalTitle": "GAR 35 Doubles - LQF - Ferriswheel, Charlie Wu vs STUNNER VETERAN, Jeo",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9904,
+    "type": "doubles",
+    "tournament": "GAR 35",
+    "date": "2025-05-01",
+    "sides": [
+      [
+        {
+          "name": "POZ",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Mr Destruction",
+          "characters": []
+        },
+        {
+          "name": "iphone",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "DFR6GGg_Sag",
+    "originalTitle": "GAR 35 Doubles - LQF - POZ, CD vs Mr Destruction, iphone",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9905,
+    "type": "doubles",
+    "tournament": "GAR 35",
+    "date": "2025-05-01",
+    "sides": [
+      [
+        {
+          "name": "POZ",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "HzxLS0u5N2U",
+    "originalTitle": "GAR 35 Doubles - LSF - POZ, CD vs Charlie Wu, Ferriswheel",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9906,
+    "type": "doubles",
+    "tournament": "GAR 35",
+    "date": "2025-05-01",
+    "sides": [
+      [
+        {
+          "name": "POZ",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "Jeo",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "BlIPCLZrjqY",
+    "originalTitle": "GAR 35 Doubles - WQF - POZ, CD vs STUNNER VETERAN, Jeo",
+    "confidence": "high",
+    "tags": []
+  },
+  {
+    "id": 9907,
+    "type": "doubles",
+    "tournament": "GAR 35",
+    "date": "2025-05-01",
+    "sides": [
+      [
+        {
+          "name": "altan",
+          "characters": []
+        },
+        {
+          "name": "BY15",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "POZ",
+          "characters": []
+        },
+        {
+          "name": "CD",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "4xfcQ-cQCdo",
+    "originalTitle": "GAR 35 Doubles - WSF - altan, BY15 vs POZ, CD",
+    "confidence": "high",
+    "tags": []
   }
 ]
