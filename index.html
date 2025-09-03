@@ -1,0 +1,278 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+    <title>OhioSSBM - Ohio Super Smash Bros. Melee Community</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <div class="nav-container">
+            <a href="#home" class="logo">OhioSSBM</a>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="#home" class="nav-link active">Home</a></li>
+                <li><a href="#events" class="nav-link">Events</a></li>
+                <li><a href="#rankings" class="nav-link">Rankings</a></li>
+                <li><a href="#replays" class="nav-link">Replays</a></li>
+                <li><a href="#locals" class="nav-link">Locals</a></li>
+                <li><a href="#join" class="nav-link">Join Us</a></li>
+                <li><a href="#vlocal" class="nav-link">Virtual Local</a></li>
+            </ul>
+            <div class="mobile-menu" id="mobileMenu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Home Section -->
+    <section id="home" class="active">
+        <div class="hero">
+            <h1>Ohio SSBM</h1>
+            <p>The Heartland's Premier Super Smash Bros. Melee Community</p>
+        </div>
+
+       <div class="blog-posts">
+            <h2 class="section-title">Latest News & Updates</h2>
+            
+            <article class="blog-post">
+                <div class="blog-header">
+                    <h3 class="blog-title">Introduction</h3>
+                    <span class="blog-date">May 28, 2025</span>
+                </div>
+                <div class="blog-body">
+                    <p>Introducing: OhioSSBM</p>
+                    <a href="blog-post.html?id=introduction" class="read-more">Read Full Post</a>
+                </div>
+            </article>
+       </div>
+    </section>
+
+    <!-- Events Section -->
+    <section id="events">
+        <h2 class="section-title">Events</h2>
+        <div class="events-filter">
+            <button class="filter-btn active" data-filter="all">All Events</button>
+            <button class="filter-btn" data-filter="columbus">Columbus</button>
+            <button class="filter-btn" data-filter="neoh">NEOH</button>
+            <button class="filter-btn" data-filter="cincinnati">Cincinnati</button>
+            <button class="filter-btn" data-filter="dayton">Dayton</button>
+        </div>
+
+        <div class="events-list">
+            <div class="event-card" data-city="neoh" data-link="https://start.gg/LUCCI">
+                <div class="event-date">
+                    <div class="day">31</div>
+                    <div class="month">MAY</div>
+                </div>
+                <div class="event-info">
+                    <h3>Night at the Barcadian</h3>
+                    <p>📍 Bar Lucci</p>
+                    <p>Now's your chance</p>
+                </div>
+                <div>
+                    <span class="badge">Regional</span>
+                    <p><a href="https://start.gg/LUCCI" target="_blank">Start.gg →</a></p>
+                </div>
+            </div>
+
+            <div class="event-card" data-city="columbus" data-link="https://start.gg/scuffle2">
+                <div class="event-date">
+                    <div class="day">2</div>
+                    <div class="month">AUG</div>
+                </div>
+                <div class="event-info">
+                    <h3>Scuffle 2</h3>
+                    <p>📍 GameArena</p>
+                    <p>Columbus Bi-Monthly series featuring FGC crossover</p>
+                </div>
+                <div>
+                    <span class="badge">Bi-Monthly</span>
+                    <p><a href="https://start.gg/scuffle2" target="_blank">Start.gg →</a></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Rankings Section -->
+    <section id="rankings">
+        <h2 class="section-title">Ohio Power Rankings</h2>
+        
+        <div class="region-tabs">
+            <button class="region-tab" data-region="columbus">Columbus</button>
+            <button class="region-tab" data-region="neoh">NEOH</button>
+            <button class="region-tab" data-region="swoh">SWOH</button>
+            <button class="region-tab" data-region="state">State PR</button>
+        </div>
+
+        <div class="pr-image-container" id="prImageContainer">
+            <div class="no-pr-message">
+                <p>🎮 Select a region to view Power Rankings</p>
+                <p style="font-size: 1rem; margin-top: 1rem;">Power Rankings images will be displayed here</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Replays Section -->
+    <section id="replays">
+        <h2 class="section-title">Match Replays</h2>
+        
+        <div class="replays-search-container">
+            <div class="search-wrapper">
+                <input 
+                    type="text" 
+                    id="replaySearch" 
+                    class="search-input" 
+                    placeholder="Search: Player, Character, Tournament..."
+                >
+                <button id="searchButton" class="search-button">Search</button>
+            </div>
+            <p class="search-info">
+                Search by player tag, character name, or tournament. Try "iphone peach" or "fox falco"
+            </p>
+        </div>
+
+        <div class="replays-results" id="replaysResults">
+            <p class="loading-text" style="display: none;">Loading replays...</p>
+            <div class="no-results" style="display: none;">
+                <p>No matches found!</p>
+                <p style="font-size: 1rem;">Try searching for different players or characters</p>
+            </div>
+        </div>
+        <div id="pagination" class="pagination"></div>
+    </section>
+
+    <!-- locals Section -->
+    <section id="locals">
+        <h2 class="section-title">Locals</h2>
+        <div class="local-grid">
+            <div class="local-card" data-link="https://start.gg/rafterz">
+                <h3>Columbus - Gar</h3>
+                <p>📍 <strong>Rafter's Beer Pub</strong></p>
+                <p>4404 Indianola Ave, Columbus, OH 43214</p>
+                <p>📅 Every Tuesday</p>
+                <p>🚪 Doors at 4:30</p>
+                <p>⏰ Melee doubles at 7</p>
+                <p>⏰ Melee singles at 8</p>
+                <p>TO: iphone and gab</p>
+            </div>
+            <div class="local-card" data-link="https://start.gg/almelee">
+                <h3>Cincinnati - Arcade Legacy</h3>
+                <p>📍 <strong>Arcade Legacy</strong></p>
+                <p>2241 Crowne Point Dr, Cincinnati, OH 45241</p>
+                <p>📅 Every Thursday</p>
+                <p>⏰ Melee singles at 7:30</p>
+                <p>TO: Ashley and Thrive</p>
+            </div>
+            <div class="local-card">
+                <h3>Kent - Bar Lucci Tournament</h3>
+                <p>📍 <strong>Bar Lucci</strong></p>
+                <p>257 N Water St, Kent, OH 44240</p>
+                <p>📅 Every Tuesday</p>
+                <p>⏰ Melee singles at 8</p>
+                <p>TO: Jeffe</p>
+            </div>
+            <div class="local-card" data-link="https://www.start.gg/northsidemarketplace">
+                <h3>Akron - Northside Marketplace Melee</h3>
+                <p>📍 <strong>Northside Marketplace</strong></p>
+                <p>21 Furnace St, Akron, OH 44308</p>
+                <p>📅 Every Thursday</p>
+                <p>🚪 Doors at 6:30</p>
+                <p>⏰ Melee singles at 7:30</p>
+                <p>TO: Weo Weo Jax</p>
+            </div>
+            <div class="local-card">
+                <h3>Dayton - Third Street Throwdown</h3>
+                <p>📍 <strong>Two Social</strong></p>
+                <p>123 E 3rd St, Dayton, OH 45402</p>
+                <p>📅 Every Friday</p>
+                <p>🚪 Doors at 6</p>
+                <p>⏰ Melee singles at 8</p>
+                <p>TO: DoesOkay</p>
+            </div>
+            <div class="local-card" data-link="https://start.gg/rafterz">
+                <h3>Warren - Trumble Tussle/Negative Edge</h3>
+                <p>📍 <strong>Laser Storm</strong></p>
+                <p>1825 N Leavitt Rd NW, Warren, OH 44485, USA</p>
+                <p>📅 Every Thursday</p>
+                <p>🚪 Doors at 4:30</p>
+                <p>⏰ P+ singles at 5:15</p>
+                <p>⏰ Melee singles at 6</p>
+                <p>TO: Strife64</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Join Section -->
+    <section id="join">
+        <h2 class="section-title">Join us</h2>
+        <p style="text-align: center; color: var(--text-secondary); margin-bottom: 2rem;">
+            Regional discords and more useful links
+        </p>
+        <div class="social-links">
+            <a href="https://discord.gg/GBUaZtrQGJ" target="_blank" class="social-card">
+                <img width="80" height="80" src="discord-images/osu.png" alt="OSU Melee">
+                <h3>OSU Melee</h3>
+                <p>Columbus region Discord</p>
+            </a>
+            <a href="https://discord.gg/T8Rxmhm" target="_blank" class="social-card">
+                <img width="80" height="80" src="discord-images/cincy.png" alt="Cincinnati Smash Club">
+                <h3>Cincinnati Smash Club</h3>
+                <p>Cincinnati region Discord</p>
+            </a>
+            <a href="https://discord.gg/AHB6229cvV" target="_blank" class="social-card">
+                <img width="80" height="80" src="discord-images/dyt.png" alt="DYT Melee">
+                <h3>DYT Melee</h3>
+                <p>Dayton region Discord</p>
+            </a>
+            <a href="https://discord.gg/RMbEzAT4U8" target="_blank" class="social-card">
+                <img width="80" height="80" src="discord-images/thundercloud.png" alt="Thundercloud Gaming">
+                <h3>Thundercloud Gaming</h3>
+                <p>Warren region Discord</p>
+            </a>
+            <a href="https://twitter.com/OhioSSBM" target="_blank" class="social-card">
+                <img width="80" height="80" src="discord-images/ohiotwitter.jpg" alt="OhioSSBM">
+                <h3>@OhioSSBM</h3>
+                <p>Follow us on Twitter/X</p>
+            </a>
+            <a href="https://melee.tv" target="_blank" class="social-card">
+                <img width="80" height="80" src="discord-images/meleedottv.png" alt="OhioSSBM">
+                <h3>melee.tv</h3>
+                <p>Everything you need to get started playing</p>
+            </a>
+        </div>
+    </section>
+
+    <section id="vlocal">
+        <h2 class="section-title">Virtual Local Experience</h2>
+        
+        <div class="unity-container">
+            <div class="unity-header">
+                <h3>🎮 Walk Around Our Virtual Local! 🎮</h3>
+                <p>Use WASD to move, Mouse to look around, ESC to show cursor</p>
+            </div>
+            
+            <div class="unity-wrapper">
+                <div id="unity-container" class="unity-game">
+                    <canvas id="unity-canvas"></canvas>
+                    <div id="unity-loading-bar">
+                        <div id="unity-logo"></div>
+                        <div id="unity-progress-bar-empty">
+                            <div id="unity-progress-bar-full"></div>
+                        </div>
+                    </div>
+                    <div id="unity-warning"></div>
+                    <div id="unity-footer">
+                        <div id="unity-fullscreen-button"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>

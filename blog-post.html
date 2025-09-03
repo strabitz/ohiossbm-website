@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Post - OhioSSBM</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Georgia, serif;
+            line-height: 1.6;
+            color: #333;
+            background: #fff;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .back-button {
+            display: inline-block;
+            margin-bottom: 2rem;
+            padding: 0.5rem 1rem;
+            background: #007acc;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 0.9rem;
+            transition: background 0.3s ease;
+        }
+
+        .back-button:hover {
+            background: #005999;
+        }
+
+        .post-header {
+            border-bottom: 1px solid #eee;
+            padding-bottom: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .post-title {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+            color: #222;
+        }
+
+        .post-date {
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        .post-content {
+            font-size: 1.1rem;
+            margin-bottom: 3rem;
+        }
+
+        .post-content p {
+            margin-bottom: 1.5rem;
+        }
+
+        .return-button {
+            display: block;
+            width: 200px;
+            margin: 0 auto;
+            padding: 0.75rem 1.5rem;
+            background: #007acc;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            text-align: center;
+            font-weight: bold;
+            transition: background 0.3s ease;
+        }
+
+        .return-button:hover {
+            background: #005999;
+        }
+    </style>
+</head>
+<body>
+    <a href="index.html" class="back-button">← Back to OhioSSBM</a>
+    
+    <article>
+        <header class="post-header">
+            <h1 class="post-title" id="postTitle">Loading...</h1>
+            <div class="post-date" id="postDate">Loading...</div>
+        </header>
+        
+        <div class="post-content" id="postContent">
+            <p>Loading post content...</p>
+        </div>
+    </article>
+    
+    <a href="index.html" class="return-button">Return to Main Site</a>
+
+    <script>
+        // Get post ID from URL parameter
+        const urlParams = new URLSearchParams(window.location.search);
+        const postId = urlParams.get('id') || 'default';
+        
+        // Blog post data
+        const blogPosts = {
+            'introduction': {
+                title: 'Introducing the New OhioSSBM Organization',
+                date: 'May 28, 2025',
+                content: `
+                    <p>Hello!</p>
+                    
+                    <p>We are tournament organizers for Super Smash Bros. Melee from across the state of Ohio. We're starting our own organization to help manage the scene.</p>
+                    
+                    <p>We used to operate under the same umbrella as the Ohio Smash Ultimate TOs, but decided to work within our respective game due to a lack of overlap between the two scenes.</p>
+                    
+                    <p>We'll be using ohiossbm.com as a place to spread information for the community on things such as tournaments, PRs, and conduct updates.</p>
+                `
+            }
+        };
+        
+        // Load the appropriate post
+        const post = blogPosts[postId] || blogPosts['default'];
+        document.getElementById('postTitle').textContent = post.title;
+        document.getElementById('postDate').textContent = post.date;
+        document.getElementById('postContent').innerHTML = post.content;
+        document.title = `${post.title} - OhioSSBM`;
+    </script>
+</body>
+</html>
