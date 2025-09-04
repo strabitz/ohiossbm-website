@@ -195222,5 +195222,6174 @@
     "originalTitle": "GAR 35 Doubles - WSF - altan, BY15 vs POZ, CD",
     "confidence": "high",
     "tags": []
+  },
+  {
+    "id": 9908,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Jester",
+          "characters": [
+            "Falcon"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Holiday",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "pd5fAsE98t4",
+    "originalTitle": "Gar #54 Melee Singles — WR2 — Jester ⟮Falcon⟯ vs Holiday ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9909,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "POZ",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "iphone",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "oaDB_w2XFgg",
+    "originalTitle": "Gar #54 Melee Singles — WR2 — POZ ⟮Falco⟯ vs iphone ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9910,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "dark beast",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "oqC8X7tdIGY",
+    "originalTitle": "Gar #54 Melee Singles — WR2 — dark beast ⟮Fox⟯ vs Charlie Wu ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9911,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "M1sf1re",
+          "characters": [
+            "Luigi"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "ShotoNC",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "qU7RRFYuGNU",
+    "originalTitle": "Gar #54 Melee Singles — LQF — M1sf1re ⟮Luigi⟯ vs ShotoNC ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9912,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "iphone",
+          "characters": [
+            "Doc"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Nibbler",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "qY_Fm6_1fLA",
+    "originalTitle": "Gar #54 Melee Singles — WR1 — iphone ⟮Doc⟯ vs Nibbler ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9913,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "YKK",
+          "characters": [
+            "Puff"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Jester",
+          "characters": [
+            "Falcon"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "qero4v7sH2Y",
+    "originalTitle": "Gar #54 Melee Singles — LR2 — YKK ⟮Puff⟯ vs Jester ⟮Falcon⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9914,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Boom",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "ragglor",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "uy2qJvunueY",
+    "originalTitle": "Gar #54 Melee Singles — WR1 — Boom ⟮Falco⟯ vs ragglor ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9915,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Balloon Day",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "oapOg9oYJ1M",
+    "originalTitle": "Gar #54 Melee Singles — WQF — Charlie Wu ⟮Fox⟯ vs Balloon Day ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9916,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Swervey",
+          "characters": [
+            "ICs"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Scotty",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "tSFoxPrhNyw",
+    "originalTitle": "Gar #54 Melee Singles — LR2 — Swervey ⟮ICs⟯ vs Scotty ⟮Marth⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9917,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Titan",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Boom",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "xNPkOkjeazw",
+    "originalTitle": "Gar #54 Melee Singles — LR2 — Titan ⟮Falco⟯ vs Boom ⟮Falco⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9918,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "ShotoNC",
+          "characters": [
+            "Marth",
+            "Sheik"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Free Palestine",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "ZtnSvVKVBKI",
+    "originalTitle": "Gar #54 Melee Singles — WQF — ShotoNC ⟮Marth, Sheik⟯ vs Free Palestine ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9919,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Swervey",
+          "characters": [
+            "ICs"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Hype!",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "bOSqXP5gXko",
+    "originalTitle": "Gar #54 Melee Singles — LR3 — Swervey ⟮ICs⟯ vs Hype! ⟮Marth⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9920,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "iphone",
+          "characters": [
+            "Fox",
+            "Doc"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Jester",
+          "characters": [
+            "Falcon"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "c5pocNpeydA",
+    "originalTitle": "Gar #54 Melee Singles — LR3 — iphone ⟮Fox, Doc⟯ vs Jester ⟮Falcon⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9921,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "M1sf1re",
+          "characters": [
+            "Luigi"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Free Palestine",
+          "characters": [
+            "Sheik",
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "iWbBHXhrnA0",
+    "originalTitle": "Gar #54 Melee Singles — LF — M1sf1re ⟮Luigi⟯ vs Free Palestine ⟮Sheik, Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9922,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "M1sf1re",
+          "characters": [
+            "Luigi"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Boom",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "nD9f9MfjWrM",
+    "originalTitle": "Gar #54 Melee Singles — WR2 — M1sf1re ⟮Luigi⟯ vs Boom ⟮Falco⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9923,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": [
+            "Marth",
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Nak",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "oEe07X90jCw",
+    "originalTitle": "Gar #54 Melee Singles — WR2 — BY15 ⟮Marth, Fox⟯ vs Nak ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9924,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "M1sf1re",
+          "characters": [
+            "Luigi"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Balloon Day",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "j7PenFQhqdg",
+    "originalTitle": "Gar #54 Melee Singles — LSF — M1sf1re ⟮Luigi⟯ vs Balloon Day ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9925,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "ShotoNC",
+          "characters": [
+            "Marth",
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "kOjxyKdKvQ4",
+    "originalTitle": "Gar #54 Melee Singles — LR5 — Charlie Wu ⟮Fox⟯ vs ShotoNC ⟮Marth, Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9926,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "iphone",
+          "characters": [
+            "Puff",
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Mr Destruction",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "l9a9YF0Kid0",
+    "originalTitle": "Gar #54 Melee Singles — LR2 — iphone ⟮Puff, Fox⟯ vs Mr Destruction ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9927,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Swervey",
+          "characters": [
+            "ICs"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Palmolive",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "mxGzEiERCj0",
+    "originalTitle": "Gar #54 Melee Singles — WR1 — Swervey ⟮ICs⟯ vs Palmolive ⟮Falco⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9928,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "ragglor",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Hype!",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "L2Ch2LWwPxA",
+    "originalTitle": "Gar #54 Melee Singles — LR2 — ragglor ⟮Sheik⟯ vs Hype! ⟮Marth⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9929,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": [
+            "Marth",
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "M1sf1re",
+          "characters": [
+            "Luigi"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "Nm88kYlYb30",
+    "originalTitle": "Gar #54 Melee Singles — WQF — BY15 ⟮Marth, Fox⟯ vs M1sf1re ⟮Luigi⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9930,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Hype!",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "bum3hundred",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "Oexi5ID8hlw",
+    "originalTitle": "Gar #54 Melee Singles — WR1 — Hype! ⟮Marth⟯ vs bum3hundred ⟮Falco⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9931,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "POZ",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Holiday",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "Rw73mhCLO2U",
+    "originalTitle": "Gar #54 Melee Singles — WQF — POZ ⟮Falco⟯ vs Holiday ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9932,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Free Palestine",
+          "characters": [
+            "Fox",
+            "Sheik"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Balloon Day",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "To6rElg6-t8",
+    "originalTitle": "Gar #54 Melee Singles — WSF — Free Palestine ⟮Fox, Sheik⟯ vs Balloon Day ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9933,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "YKK",
+          "characters": [
+            "Puff"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "dark beast",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "V3_IZoUal1g",
+    "originalTitle": "Gar #54 Melee Singles — WR1 — YKK ⟮Puff⟯ vs dark beast ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9934,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Wave",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "BY15",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "VGiQt7NkC0Q",
+    "originalTitle": "Gar #54 Melee Singles — LR4 — Wave ⟮Marth⟯ vs BY15 ⟮Marth⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9935,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "M1sf1re",
+          "characters": [
+            "Luigi"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Holiday",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "VK1FOOVOB_w",
+    "originalTitle": "Gar #54 Melee Singles — WSF — M1sf1re ⟮Luigi⟯ vs Holiday ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9936,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Hype!",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "X-vDzBW4cII",
+    "originalTitle": "Gar #54 Melee Singles — LR5 — BY15 ⟮Marth⟯ vs Hype! ⟮Marth⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9937,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Nak",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "XnR0IQ8CwA4",
+    "originalTitle": "Gar #54 Melee Singles — LR4 — Charlie Wu ⟮Fox⟯ vs Nak ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9938,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Hype!",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "ShotoNC",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "89BOqwLbzU4",
+    "originalTitle": "Gar #54 Melee Singles — WR2 — Hype! ⟮Marth⟯ vs ShotoNC ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9939,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "dark beast",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Ders",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "8PNcJCYMf2c",
+    "originalTitle": "Gar #54 Melee Singles — LR2 — dark beast ⟮Fox⟯ vs Ders ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9940,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Holiday",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Free Palestine",
+          "characters": [
+            "Fox",
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "9hLrtMW1M6o",
+    "originalTitle": "Gar #54 Melee Singles — GF — Holiday ⟮Sheik⟯ vs Free Palestine ⟮Fox, Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9941,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Wave",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "cloink",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "9uTuI6wtqoo",
+    "originalTitle": "Gar #54 Melee Singles — LR2 — Wave ⟮Marth⟯ vs cloink ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9942,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Hype!",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "POZ",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "Fw_3DkIaX_E",
+    "originalTitle": "Gar #54 Melee Singles — LR4 — Hype! ⟮Marth⟯ vs POZ ⟮Falco⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9943,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Swervey",
+          "characters": [
+            "ICs"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Free Palestine",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "GL1jDmjDVto",
+    "originalTitle": "Gar #54 Melee Singles — WR2 — Swervey ⟮ICs⟯ vs Free Palestine ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9944,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "bum3hundred",
+          "characters": []
+        },
+        {
+          "name": "cloink",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Nibbler",
+          "characters": []
+        },
+        {
+          "name": "ragglor",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "GSp1zRFy1SU",
+    "originalTitle": "Gar #54 Melee Doubles — LR1 — bum3hundred, cloink vs Nibbler, ragglor",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9945,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "YKK",
+          "characters": [
+            "Puff"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "LexJ",
+          "characters": [
+            "Peach"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "HTtbTcwY_gs",
+    "originalTitle": "Gar #54 Melee Singles — LR1 — YKK ⟮Puff⟯ vs LexJ ⟮Peach⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9946,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Scotty",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Nak",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "JLyobqSp2wo",
+    "originalTitle": "Gar #54 Melee Singles — WR1 — Scotty ⟮Marth⟯ vs Nak ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9947,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "LexJ",
+          "characters": [
+            "Peach"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "L1_F9MQbJ6M",
+    "originalTitle": "Gar #54 Melee Singles — WR1 — LexJ ⟮Peach⟯ vs Charlie Wu ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9948,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Boom",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Nak",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "19pPnxrYS7U",
+    "originalTitle": "Gar #54 Melee Singles — LR3 — Boom ⟮Falco⟯ vs Nak ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9949,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "ShotoNC",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "iphone",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "55oVBrhoX6o",
+    "originalTitle": "Gar #54 Melee Singles — LR4 — ShotoNC ⟮Sheik⟯ vs iphone ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9950,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Free Palestine",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Holiday",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "6ictdcCoZvQ",
+    "originalTitle": "Gar #54 Melee Singles — WF — Free Palestine ⟮Fox⟯ vs Holiday ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9951,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Balloon Day",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "7zq7W9DLc10",
+    "originalTitle": "Gar #54 Melee Singles — LQF — BY15 ⟮Marth⟯ vs Balloon Day ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9952,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Ders",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Jester",
+          "characters": [
+            "Falcon"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "--B2wPad_o8",
+    "originalTitle": "Gar #54 Melee Singles — WR1 — Ders ⟮Sheik⟯ vs Jester ⟮Falcon⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9953,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Titan",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "bum3hundred",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "2zU8ZHqXRNA",
+    "originalTitle": "Gar #54 Melee Singles — LR1 — Titan ⟮Falco⟯ vs bum3hundred ⟮Falco⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9954,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Wave",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Mr Destruction",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "5Q6lPMYMME4",
+    "originalTitle": "Gar #54 Melee Singles — WR1 — Wave ⟮Marth⟯ vs Mr Destruction ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9955,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "dark beast",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Wave",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "65eMKt2xjiA",
+    "originalTitle": "Gar #54 Melee Singles — LR3 — dark beast ⟮Fox⟯ vs Wave ⟮Marth⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9956,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Palmolive",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Nak",
+          "characters": [
+            "Sheik",
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "6Z_uPSnrkss",
+    "originalTitle": "Gar #54 Melee Singles — LR2 — Palmolive ⟮Falco⟯ vs Nak ⟮Sheik, Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9957,
+    "type": "singles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "cloink",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Nibbler",
+          "characters": [
+            "Zelda",
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "7QyKB3fa1po",
+    "originalTitle": "Gar #54 Melee Singles — LR1 — cloink ⟮Sheik⟯ vs Nibbler ⟮Zelda, Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9958,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "Jeo",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Mr Destruction",
+          "characters": []
+        },
+        {
+          "name": "Ders",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "oenR53w2pgc",
+    "originalTitle": "Gar #54 Melee Doubles — WR1 — STUNNER VETERAN, Jeo vs Mr Destruction, Ders",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9959,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Hype!",
+          "characters": []
+        },
+        {
+          "name": "Boom",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Palmolive",
+          "characters": []
+        },
+        {
+          "name": "Scotty",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "oxh8VglyD4Q",
+    "originalTitle": "Gar #54 Melee Doubles — LR2 — Hype!, Boom vs Palmolive, Scotty",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9960,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "altan",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Hanky Panky",
+          "characters": []
+        },
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "x-y2mpQMU-0",
+    "originalTitle": "Gar #54 Melee Doubles — WSF — BY15, altan vs Hanky Panky, Bodunga of the Pooplands",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9961,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "M1sf1re",
+          "characters": []
+        },
+        {
+          "name": "Holiday",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "zL4WFjITTqY",
+    "originalTitle": "Gar #54 Melee Doubles — WSF — M1sf1re, Holiday vs Charlie Wu, Ferriswheel",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9962,
+    "type": "singles",
+    "tournament": "Gar 54 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Ders",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "ragglor",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "ueVrNPFQalU",
+    "originalTitle": "Gar #54 Melee Ammy — LR2 — Ders ⟮Sheik⟯ vs ragglor ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9963,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "Jeo",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "ragglor",
+          "characters": []
+        },
+        {
+          "name": "Nibbler",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "yYbxfoxP63Y",
+    "originalTitle": "Gar #54 Melee Doubles — LR2 — STUNNER VETERAN, Jeo vs ragglor, Nibbler",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9964,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "dark beast",
+          "characters": []
+        },
+        {
+          "name": "POZ",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "ShotoNC",
+          "characters": []
+        },
+        {
+          "name": "iphone",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "_sZZ5K594Ow",
+    "originalTitle": "Gar #54 Melee Doubles — LR3 — dark beast, POZ vs ShotoNC, iphone",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9965,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "ShotoNC",
+          "characters": []
+        },
+        {
+          "name": "iphone",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Ders",
+          "characters": []
+        },
+        {
+          "name": "Mr Destruction",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "aZT95Jqqyb4",
+    "originalTitle": "Gar #54 Melee Doubles — LR2 — ShotoNC, iphone vs Ders, Mr Destruction",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9966,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Boom",
+          "characters": []
+        },
+        {
+          "name": "Hype!",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Hanky Panky",
+          "characters": []
+        },
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "csmY0lf3nmI",
+    "originalTitle": "Gar #54 Melee Doubles — WQF — Boom, Hype! vs Hanky Panky, Bodunga of the Pooplands",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9967,
+    "type": "singles",
+    "tournament": "Gar 54 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Titan",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "LexJ",
+          "characters": [
+            "Peach"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "e04MamJJB7o",
+    "originalTitle": "Gar #54 Melee Ammy — LR1 — Titan ⟮Falco⟯ vs LexJ ⟮Peach⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9968,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "M1sf1re",
+          "characters": []
+        },
+        {
+          "name": "Holiday",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "Jeo",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "foPYiS3obS4",
+    "originalTitle": "Gar #54 Melee Doubles — LQF — M1sf1re, Holiday vs STUNNER VETERAN, Jeo",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9969,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        },
+        {
+          "name": "Hanky Panky",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "M1sf1re",
+          "characters": []
+        },
+        {
+          "name": "Holiday",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "j3r7HZPB1aU",
+    "originalTitle": "Gar #54 Melee Doubles — GF — Bodunga of the Pooplands, Hanky Panky vs M1sf1re, Holiday",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9970,
+    "type": "singles",
+    "tournament": "Gar 54 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Titan",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Palmolive",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "jvUCkHEb8Ok",
+    "originalTitle": "Gar #54 Melee Ammy — WR1 — Titan ⟮Falco⟯ vs Palmolive ⟮Falco⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9971,
+    "type": "singles",
+    "tournament": "Gar 54 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "YKK",
+          "characters": [
+            "Puff"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Ders",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "kJcoUTquOLo",
+    "originalTitle": "Gar #54 Melee Ammy — LQF — YKK ⟮Puff⟯ vs Ders ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9972,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Jester",
+          "characters": []
+        },
+        {
+          "name": "Hundred",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Boom",
+          "characters": []
+        },
+        {
+          "name": "Hype!",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "m4JPezWn_mQ",
+    "originalTitle": "Gar #54 Melee Doubles — WR1 — Jester, Hundred vs Boom, Hype!",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9973,
+    "type": "singles",
+    "tournament": "Gar 54 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "LexJ",
+          "characters": [
+            "Peach"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "YKK",
+          "characters": [
+            "Puff"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "m7MlQLDZPDI",
+    "originalTitle": "Gar #54 Melee Ammy — WQF — LexJ ⟮Peach⟯ vs YKK ⟮Puff⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9974,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "altan",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "M1sf1re",
+          "characters": []
+        },
+        {
+          "name": "Holiday",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "HB2MI-NvnEw",
+    "originalTitle": "Gar #54 Melee Doubles — LSF — BY15, altan vs M1sf1re, Holiday",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9975,
+    "type": "singles",
+    "tournament": "Gar 54 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "ragglor",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "YKK",
+          "characters": [
+            "Puff"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "HcoqkSihFro",
+    "originalTitle": "Gar #54 Melee Ammy — WR1 — ragglor ⟮Sheik⟯ vs YKK ⟮Puff⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9976,
+    "type": "singles",
+    "tournament": "Gar 54 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "MonchaCronchin",
+          "characters": [
+            "Yoshi"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "cloink",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "JoKvMIz1Dao",
+    "originalTitle": "Gar #54 Melee Ammy — WR1 — MonchaCronchin ⟮Yoshi⟯ vs cloink ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9977,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "ShotoNC",
+          "characters": []
+        },
+        {
+          "name": "iphone",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "cloink",
+          "characters": []
+        },
+        {
+          "name": "bum3hundred",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "NT5uFxw0VNI",
+    "originalTitle": "Gar #54 Melee Doubles — WR1 — ShotoNC, iphone vs cloink, bum3hundred",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9978,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Hanky Panky",
+          "characters": []
+        },
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "QYw8qVyqe8M",
+    "originalTitle": "Gar #54 Melee Doubles — WF — Hanky Panky, Bodunga of the Pooplands vs Charlie Wu, Ferriswheel",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9979,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "bum3hundred",
+          "characters": []
+        },
+        {
+          "name": "cloink",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Nibbler",
+          "characters": []
+        },
+        {
+          "name": "ragglor",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "RxwFaInRSFo",
+    "originalTitle": "Gar #54 Melee Doubles — LR1 — bum3hundred, cloink vs Nibbler, ragglor",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9980,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "dark beast",
+          "characters": []
+        },
+        {
+          "name": "POZ",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Palmolive",
+          "characters": []
+        },
+        {
+          "name": "Scotty",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "Tt75Pe6Pxd8",
+    "originalTitle": "Gar #54 Melee Doubles — WR1 — dark beast, POZ vs Palmolive, Scotty",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9981,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "ragglor",
+          "characters": []
+        },
+        {
+          "name": "Nibbler",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "Wc-DNeiWlGE",
+    "originalTitle": "Gar #54 Melee Doubles — WR1 — ragglor, Nibbler vs Charlie Wu, Ferriswheel",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9982,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Hype!",
+          "characters": []
+        },
+        {
+          "name": "Jeo",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Boom",
+          "characters": []
+        },
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "WnvIi_n0DB4",
+    "originalTitle": "Gar #54 Melee Doubles — LR3 — Hype!, Jeo vs Boom, STUNNER VETERAN",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9983,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "dark beast",
+          "characters": []
+        },
+        {
+          "name": "POZ",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Holiday",
+          "characters": []
+        },
+        {
+          "name": "M1sf1re",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "ZkEv94bqY0Q",
+    "originalTitle": "Gar #54 Melee Doubles — WQF — dark beast, POZ vs Holiday, M1sf1re",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9984,
+    "type": "singles",
+    "tournament": "Gar 54 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "bum3hundred",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "cloink",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "9QXvj4ZABqk",
+    "originalTitle": "Gar #54 Melee Ammy — LQF — bum3hundred ⟮Falco⟯ vs cloink ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9985,
+    "type": "singles",
+    "tournament": "Gar 54 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "YKK",
+          "characters": [
+            "DK",
+            "Puff"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Scotty",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "1lHTXl5WuGk",
+    "originalTitle": "Gar #54 Melee Ammy — LF — YKK ⟮DK, Puff⟯ vs Scotty ⟮Marth⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54"
+    ]
+  },
+  {
+    "id": 9986,
+    "type": "singles",
+    "tournament": "Gar 54 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "YKK",
+          "characters": [
+            "Puff"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Scotty",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "2GB_RZREOiA",
+    "originalTitle": "Gar #54 Melee Ammy — WSF — YKK ⟮Puff⟯ vs Scotty ⟮Marth⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9987,
+    "type": "singles",
+    "tournament": "Gar 54 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Ders",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "cloink",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "4_RTqh8I4wk",
+    "originalTitle": "Gar #54 Melee Ammy — WQF — Ders ⟮Fox⟯ vs cloink ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9988,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "iphone",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "altan",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "5AMXaUjCJxg",
+    "originalTitle": "Gar #54 Melee Doubles — LQF — iphone, ShotoNC vs BY15, altan",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9989,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "altan",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": []
+        },
+        {
+          "name": "Jeo",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "9qsLNGNmevY",
+    "originalTitle": "Gar #54 Melee Doubles — WQF — BY15, altan vs STUNNER VETERAN, Jeo",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9990,
+    "type": "singles",
+    "tournament": "Gar 54 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "YKK",
+          "characters": [
+            "Puff"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "cloink",
+          "characters": [
+            "Sheik",
+            "Zelda"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "AsZFif29he0",
+    "originalTitle": "Gar #54 Melee Ammy — LSF — YKK ⟮Puff⟯ vs cloink ⟮Sheik, Zelda⟯",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9991,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        },
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "M1sf1re",
+          "characters": []
+        },
+        {
+          "name": "Holiday",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "CdL4LpSvxXA",
+    "originalTitle": "Gar #54 Melee Doubles — LF — Ferriswheel, Charlie Wu vs M1sf1re, Holiday",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9992,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "ShotoNC",
+          "characters": []
+        },
+        {
+          "name": "iphone",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "CrKJM5SHfvE",
+    "originalTitle": "Gar #54 Melee Doubles — WQF — ShotoNC, iphone vs Charlie Wu, Ferriswheel",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9993,
+    "type": "doubles",
+    "tournament": "Gar 54",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "dark beast",
+          "characters": []
+        },
+        {
+          "name": "POZ",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Hundred",
+          "characters": []
+        },
+        {
+          "name": "Jester",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "EhDOd0W_PQQ",
+    "originalTitle": "Gar #54 Melee Doubles — LR2 — dark beast, POZ vs Hundred, Jester",
+    "confidence": "high",
+    "tags": [
+      "gar54",
+      "gar"
+    ]
+  },
+  {
+    "id": 9994,
+    "type": "singles",
+    "tournament": "Gar 53 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "cloink",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "BluePlayer",
+          "characters": [
+            "GW"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "jo-SiFdA5AQ",
+    "originalTitle": "Gar #53 Melee Ammy — LR2 — cloink ⟮Sheik⟯ vs BluePlayer ⟮GW⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 9995,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Steak",
+          "characters": [
+            "Luigi"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "omufLW1SyHs",
+    "originalTitle": "Gar #53 Melee Singles — LQF — Charlie Wu ⟮Fox⟯ vs Steak ⟮Luigi⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 9996,
+    "type": "doubles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "Jeo",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        },
+        {
+          "name": "Free Palestine",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "pDvolIl7QME",
+    "originalTitle": "Gar #53 Melee Doubles — WF — BY15, Jeo vs Ferriswheel, Free Palestine",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 9997,
+    "type": "doubles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "iphone",
+          "characters": []
+        },
+        {
+          "name": "Mr.Destruction",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Free Palestine",
+          "characters": []
+        },
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "pNBfFi132aA",
+    "originalTitle": "Gar #53 Melee Doubles — WSF — iphone, Mr.Destruction vs Free Palestine, Ferriswheel",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 9998,
+    "type": "doubles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "ragglor",
+          "characters": []
+        },
+        {
+          "name": "Nibbler",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "jared",
+          "characters": []
+        },
+        {
+          "name": "josiah",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "tO5AT4JyQdE",
+    "originalTitle": "Gar #53 Melee Doubles — WR1 — ragglor, Nibbler vs jared, josiah",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 9999,
+    "type": "singles",
+    "tournament": "Gar 53 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "YKK",
+          "characters": [
+            "Puff"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "cloink",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "uv_0s2UcdTM",
+    "originalTitle": "Gar #53 Melee Ammy — LQF — YKK ⟮Puff⟯ vs cloink ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10000,
+    "type": "singles",
+    "tournament": "Gar 53 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Bajur",
+          "characters": [
+            "Luigi"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "hunter",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "wmAc5R-HL0o",
+    "originalTitle": "Gar #53 Melee Ammy — WQF — Bajur ⟮Luigi⟯ vs hunter ⟮Falco⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10001,
+    "type": "singles",
+    "tournament": "Gar 53 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Palmolive",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Bajur",
+          "characters": [
+            "Samus"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "yyAYBYGuPYo",
+    "originalTitle": "Gar #53 Melee Ammy — WSF — Palmolive ⟮Falco⟯ vs Bajur ⟮Samus⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10002,
+    "type": "doubles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "HEAT ADVISORY",
+          "characters": []
+        },
+        {
+          "name": "Boom",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Mr.Destruction",
+          "characters": []
+        },
+        {
+          "name": "iphone",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "lQkW0ThdxMc",
+    "originalTitle": "Gar #53 Melee Doubles — LQF — HEAT ADVISORY, Boom vs Mr.Destruction, iphone",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10003,
+    "type": "doubles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "cloink",
+          "characters": []
+        },
+        {
+          "name": "bum3hundred",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Bope!",
+          "characters": []
+        },
+        {
+          "name": "BluePlayer",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "vIBV7b_Yq5M",
+    "originalTitle": "Gar #53 Melee Doubles — LR1 — cloink, bum3hundred vs Bope!, BluePlayer",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10004,
+    "type": "singles",
+    "tournament": "Gar 53 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "HEAT ADVISORY",
+          "characters": [
+            "Falcon"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Bajur",
+          "characters": [
+            "Samus"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "aWt03MhMhjQ",
+    "originalTitle": "Gar #53 Melee Ammy — WF — HEAT ADVISORY ⟮Falcon⟯ vs Bajur ⟮Samus⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10005,
+    "type": "singles",
+    "tournament": "Gar 53 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "bum3hundred",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Palmolive",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "bWKJ43S46w8",
+    "originalTitle": "Gar #53 Melee Ammy — LQF — bum3hundred ⟮Falco⟯ vs Palmolive ⟮Falco⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10006,
+    "type": "singles",
+    "tournament": "Gar 53 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "HEAT ADVISORY",
+          "characters": [
+            "Falcon"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Bajur",
+          "characters": [
+            "Samus"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "cKQx81L3n0Y",
+    "originalTitle": "Gar #53 Melee Ammy — GF — HEAT ADVISORY ⟮Falcon⟯ vs Bajur ⟮Samus⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10007,
+    "type": "doubles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "josiah",
+          "characters": []
+        },
+        {
+          "name": "jared",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "HEAT ADVISORY",
+          "characters": []
+        },
+        {
+          "name": "Boom",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "dtH9bKjq3JI",
+    "originalTitle": "Gar #53 Melee Doubles — LR2 — josiah, jared vs HEAT ADVISORY, Boom",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10008,
+    "type": "doubles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "HEAT ADVISORY",
+          "characters": []
+        },
+        {
+          "name": "Boom",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "bum3hundred",
+          "characters": []
+        },
+        {
+          "name": "cloink",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "fej9PzC8UEw",
+    "originalTitle": "Gar #53 Melee Doubles — WR1 — HEAT ADVISORY, Boom vs bum3hundred, cloink",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10009,
+    "type": "doubles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "iphone",
+          "characters": []
+        },
+        {
+          "name": "Mr.Destruction",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "ShotoNC",
+          "characters": []
+        },
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "fryfIAr9fUY",
+    "originalTitle": "Gar #53 Melee Doubles — LSF — iphone, Mr.Destruction vs ShotoNC, Bodunga of the Pooplands",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10010,
+    "type": "doubles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "HEAT ADVISORY",
+          "characters": []
+        },
+        {
+          "name": "Boom",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "hU55savM6qw",
+    "originalTitle": "Gar #53 Melee Doubles — WQF — HEAT ADVISORY, Boom vs Bodunga of the Pooplands, ShotoNC",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10011,
+    "type": "doubles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Bope!",
+          "characters": []
+        },
+        {
+          "name": "BluePlayer",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "Palmolive",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "i8lWpG6UUTs",
+    "originalTitle": "Gar #53 Melee Doubles — LR2 — Bope!, BluePlayer vs Charlie Wu, Palmolive",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10012,
+    "type": "doubles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BluePlayer",
+          "characters": []
+        },
+        {
+          "name": "Bope!",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Bajur",
+          "characters": []
+        },
+        {
+          "name": "hunter",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "i_UbrA66PQo",
+    "originalTitle": "Gar #53 Melee Doubles — WR1 — BluePlayer, Bope! vs Bajur, hunter",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10013,
+    "type": "singles",
+    "tournament": "Gar 53 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "MonchaCronch",
+          "characters": [
+            "Yoshi"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "YKK",
+          "characters": [
+            "Puff",
+            "Ness"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "EaE43hDA-hI",
+    "originalTitle": "Gar #53 Melee Ammy — WQF — MonchaCronch ⟮Yoshi⟯ vs YKK ⟮Puff, Ness⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10014,
+    "type": "singles",
+    "tournament": "Gar 53 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "YKK",
+          "characters": [
+            "Puff"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Bajur",
+          "characters": [
+            "Samus"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "FzMYpvtyUjI",
+    "originalTitle": "Gar #53 Melee Ammy — LF — YKK ⟮Puff⟯ vs Bajur ⟮Samus⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10015,
+    "type": "singles",
+    "tournament": "Gar 53 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "YKK",
+          "characters": [
+            "Puff",
+            "DK"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "HEAT ADVISORY",
+          "characters": [
+            "Falcon"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "Ga2phswNVnA",
+    "originalTitle": "Gar #53 Melee Ammy — WSF — YKK ⟮Puff, DK⟯ vs HEAT ADVISORY ⟮Falcon⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10016,
+    "type": "doubles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "iphone",
+          "characters": []
+        },
+        {
+          "name": "Mr.Destruction",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "Palmolive",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "Og4CyJljlfQ",
+    "originalTitle": "Gar #53 Melee Doubles — WQF — iphone, Mr.Destruction vs Charlie Wu, Palmolive",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10017,
+    "type": "singles",
+    "tournament": "Gar 53 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BirdMan",
+          "characters": [
+            "Falco",
+            "Ganon"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "hunter",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "PAX4G59ge1k",
+    "originalTitle": "Gar #53 Melee Ammy — LR2 — BirdMan ⟮Falco, Ganon⟯ vs hunter ⟮Falco⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10018,
+    "type": "doubles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        },
+        {
+          "name": "Free Palestine",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "ShotoNC",
+          "characters": []
+        },
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "Q_Uo5O7_tkU",
+    "originalTitle": "Gar #53 Melee Doubles — GFR — Ferriswheel, Free Palestine vs ShotoNC, Bodunga of the Pooplands",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10019,
+    "type": "singles",
+    "tournament": "Gar 53 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Palmolive",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "BluePlayer",
+          "characters": [
+            "GW"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "W_vs86iDrkw",
+    "originalTitle": "Gar #53 Melee Ammy — WQF — Palmolive ⟮Falco⟯ vs BluePlayer ⟮GW⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10020,
+    "type": "singles",
+    "tournament": "Gar 53 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "YKK",
+          "characters": [
+            "Puff"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Palmolive",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "Wj6oQ4Bdhq8",
+    "originalTitle": "Gar #53 Melee Ammy — LSF — YKK ⟮Puff⟯ vs Palmolive ⟮Falco⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10021,
+    "type": "doubles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "Jeo",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "ShotoNC",
+          "characters": []
+        },
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "YBxANzrqyJU",
+    "originalTitle": "Gar #53 Melee Doubles — LF — BY15, Jeo vs ShotoNC, Bodunga of the Pooplands",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10022,
+    "type": "singles",
+    "tournament": "Gar 53 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "bum3hundred",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Bajur",
+          "characters": [
+            "Samus"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "_zEFKTZXuDQ",
+    "originalTitle": "Gar #53 Melee Ammy — WR1 — bum3hundred ⟮Falco⟯ vs Bajur ⟮Samus⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10023,
+    "type": "singles",
+    "tournament": "Gar 53 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BirdMan",
+          "characters": [
+            "Falco",
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "cloink",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "2-fz8Xp2Kdg",
+    "originalTitle": "Gar #53 Melee Ammy — LR3 — BirdMan ⟮Falco, Marth⟯ vs cloink ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10024,
+    "type": "doubles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": []
+        },
+        {
+          "name": "Jeo",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "ShotoNC",
+          "characters": []
+        },
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "3ZxfVAy7OYE",
+    "originalTitle": "Gar #53 Melee Doubles — WSF — BY15, Jeo vs ShotoNC, Bodunga of the Pooplands",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10025,
+    "type": "singles",
+    "tournament": "Gar 53 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Palmolive",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Nibbler",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "7RdldNzBBig",
+    "originalTitle": "Gar #53 Melee Ammy — WR1 — Palmolive ⟮Falco⟯ vs Nibbler ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10026,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Balloon Day",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "9NbLSriJjkU",
+    "originalTitle": "Gar #53 Melee Singles — LF — BY15 ⟮Marth⟯ vs Balloon Day ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10027,
+    "type": "singles",
+    "tournament": "Gar 53 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "YKK",
+          "characters": [
+            "Puff"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "BirdMan",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "9SBTqNrTcrI",
+    "originalTitle": "Gar #53 Melee Ammy — WR1 — YKK ⟮Puff⟯ vs BirdMan ⟮Falco⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10028,
+    "type": "doubles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Bope!",
+          "characters": []
+        },
+        {
+          "name": "BluePlayer",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        },
+        {
+          "name": "Free Palestine",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "AOARJddCWLs",
+    "originalTitle": "Gar #53 Melee Doubles — WQF — Bope!, BluePlayer vs Ferriswheel, Free Palestine",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10029,
+    "type": "singles",
+    "tournament": "Gar 53 Melee Ammy",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "HEAT ADVISORY",
+          "characters": [
+            "Falcon"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "cloink",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "Bu1AswH6Y-I",
+    "originalTitle": "Gar #53 Melee Ammy — WR1 — HEAT ADVISORY ⟮Falcon⟯ vs cloink ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10030,
+    "type": "doubles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        },
+        {
+          "name": "Free Palestine",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "ShotoNC",
+          "characters": []
+        },
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "DTi_NXd3Bi0",
+    "originalTitle": "Gar #53 Melee Doubles — GF — Ferriswheel, Free Palestine vs ShotoNC, Bodunga of the Pooplands",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10031,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Sarlo",
+          "characters": [
+            "Fox",
+            "Marth"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "DgzEoMuv5Ik",
+    "originalTitle": "Gar #53 Melee Singles — LQF — BY15 ⟮Marth⟯ vs Sarlo ⟮Fox, Marth⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10032,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": [
+            "Peach",
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "E8J_5ly0fjs",
+    "originalTitle": "Gar #53 Melee Singles — GF — BY15 ⟮Marth⟯ vs Bodunga of the Pooplands ⟮Peach, Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10033,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BluePlayer",
+          "characters": [
+            "GW",
+            "Peach"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "cloink",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "k1L0_aX3hCQ",
+    "originalTitle": "Gar #53 Melee Singles — LR1 — BluePlayer ⟮GW, Peach⟯ vs cloink ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10034,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Steak",
+          "characters": [
+            "Doc"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Wave",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "n-GRuT5SBjk",
+    "originalTitle": "Gar #53 Melee Singles — LR4 — Steak ⟮Doc⟯ vs Wave ⟮Marth⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10035,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Wave",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "njYqDvoELwE",
+    "originalTitle": "Gar #53 Melee Singles — WR2 — Wave ⟮Marth⟯ vs Charlie Wu ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10036,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "HEAT ADVISORY",
+          "characters": [
+            "Falcon",
+            "Sheik"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Jeo",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "ph4_I8v6HOs",
+    "originalTitle": "Gar #53 Melee Singles — WR2 — HEAT ADVISORY ⟮Falcon, Sheik⟯ vs Jeo ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10037,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "ShotoNC",
+          "characters": [
+            "Sheik",
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Nibbler",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "pwQUJuBVq1Y",
+    "originalTitle": "Gar #53 Melee Singles — WR1 — ShotoNC ⟮Sheik, Fox⟯ vs Nibbler ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10038,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "HEAT ADVISORY",
+          "characters": [
+            "Falcon"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Mr.Destruction",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "pygqscZtEx4",
+    "originalTitle": "Gar #53 Melee Singles — LR2 — HEAT ADVISORY ⟮Falcon⟯ vs Mr.Destruction ⟮Marth⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10039,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BirdMan",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Sarlo",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "rQBeiinQeEQ",
+    "originalTitle": "Gar #53 Melee Singles — WR1 — BirdMan ⟮Falco⟯ vs Sarlo ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10040,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Steak",
+          "characters": [
+            "Luigi"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "s_LGhEFKxQU",
+    "originalTitle": "Gar #53 Melee Singles — LSF — BY15 ⟮Marth⟯ vs Steak ⟮Luigi⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10041,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Bope!",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Palmolive",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "yG0BZhcvKIo",
+    "originalTitle": "Gar #53 Melee Singles — WR1 — Bope! ⟮Fox⟯ vs Palmolive ⟮Falco⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10042,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Mr.Destruction",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Wave",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "zCzwgpQV994",
+    "originalTitle": "Gar #53 Melee Singles — WR1 — Mr.Destruction ⟮Fox⟯ vs Wave ⟮Marth⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10043,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Jeo",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Steak",
+          "characters": [
+            "Luigi"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "_qARroaOTPA",
+    "originalTitle": "Gar #53 Melee Singles — LR5 — Jeo ⟮Fox⟯ vs Steak ⟮Luigi⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10044,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Balloon Day",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "a3S5jO280KA",
+    "originalTitle": "Gar #53 Melee Singles — WSF — Balloon Day ⟮Fox⟯ vs Charlie Wu ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10045,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "YKK",
+          "characters": [
+            "Puff"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Nak",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "aVRo0DkYWyk",
+    "originalTitle": "Gar #53 Melee Singles — LR2 — YKK ⟮Puff⟯ vs Nak ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10046,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "iphone",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "aWYBIwl4ejg",
+    "originalTitle": "Gar #53 Melee Singles — LR5 — BY15 ⟮Marth⟯ vs iphone ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10047,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Sarlo",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Nak",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "atQCOcHB_hE",
+    "originalTitle": "Gar #53 Melee Singles — WR2 — Sarlo ⟮Fox⟯ vs Nak ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10048,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": [
+            "Marth",
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Nak",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "dUl68wi4aIo",
+    "originalTitle": "Gar #53 Melee Singles — LR4 — BY15 ⟮Marth, Fox⟯ vs Nak ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10049,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Balloon Day",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": [
+            "Peach"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "eXDf9O6QtE8",
+    "originalTitle": "Gar #53 Melee Singles — WF — Balloon Day ⟮Fox⟯ vs Bodunga of the Pooplands ⟮Peach⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10050,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Boom",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Bajur",
+          "characters": [
+            "Samus"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "f1jtgGKKiDY",
+    "originalTitle": "Gar #53 Melee Singles — WR1 — Boom ⟮Falco⟯ vs Bajur ⟮Samus⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10051,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "iphone",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "ShotoNC",
+          "characters": [
+            "Marth",
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "gz0K4Ux6fVk",
+    "originalTitle": "Gar #53 Melee Singles — WR2 — iphone ⟮Fox⟯ vs ShotoNC ⟮Marth, Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10052,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "BirdMan",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "jWVCGRrjan0",
+    "originalTitle": "Gar #53 Melee Singles — LR2 — STUNNER VETERAN ⟮Falco⟯ vs BirdMan ⟮Falco⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10053,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Boom",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "iphone",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "MHIFOCTuDjA",
+    "originalTitle": "Gar #53 Melee Singles — LR4 — Boom ⟮Falco⟯ vs iphone ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10054,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": [
+            "Zelda",
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "ragglor",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "NkXAACu_ha0",
+    "originalTitle": "Gar #53 Melee Singles — WR2 — BY15 ⟮Zelda, Fox⟯ vs ragglor ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10055,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "josiah",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Palmolive",
+          "characters": [
+            "Falco",
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "PQsfCTggXwU",
+    "originalTitle": "Gar #53 Melee Singles — LR1 — josiah ⟮Fox⟯ vs Palmolive ⟮Falco, Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10056,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "BY15",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "PSpJyQpfUq8",
+    "originalTitle": "Gar #53 Melee Singles — WQF — BY15 ⟮Marth⟯ vs Charlie Wu ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10057,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Bajur",
+          "characters": [
+            "Samus"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "ragglor",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "SuFjrGUzmy4",
+    "originalTitle": "Gar #53 Melee Singles — LR2 — Bajur ⟮Samus⟯ vs ragglor ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10058,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "bum3hundred",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Boom",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "SuPXqMZIeTM",
+    "originalTitle": "Gar #53 Melee Singles — LR2 — bum3hundred ⟮Falco⟯ vs Boom ⟮Falco⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10059,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "bum3hundred",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "MonchaCronch",
+          "characters": [
+            "Yoshi"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "TsoZ_t4iZ8A",
+    "originalTitle": "Gar #53 Melee Singles — LR1 — bum3hundred ⟮Falco⟯ vs MonchaCronch ⟮Yoshi⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10060,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "josiah",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Steak",
+          "characters": [
+            "Doc"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "TvCANegTbDg",
+    "originalTitle": "Gar #53 Melee Singles — WR1 — josiah ⟮Fox⟯ vs Steak ⟮Doc⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10061,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "YKK",
+          "characters": [
+            "Puff",
+            "DK"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": [
+            "Fox",
+            "Marth"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "YMvLjYQ8lQs",
+    "originalTitle": "Gar #53 Melee Singles — WR1 — YKK ⟮Puff, DK⟯ vs STUNNER VETERAN ⟮Fox, Marth⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10062,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "ShotoNC",
+          "characters": [
+            "Sheik",
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "josiah",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "_iEqz8oMb9g",
+    "originalTitle": "Gar #53 Melee Singles — LR2 — ShotoNC ⟮Sheik, Marth⟯ vs josiah ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10063,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Bope!",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Steak",
+          "characters": [
+            "Doc"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "CtoKKYhoo3g",
+    "originalTitle": "Gar #53 Melee Singles — WR2 — Bope! ⟮Fox⟯ vs Steak ⟮Doc⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10064,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "jared",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "E6hHlcYB76w",
+    "originalTitle": "Gar #53 Melee Singles — WR1 — jared ⟮Marth⟯ vs Charlie Wu ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10065,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Boom",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": [
+            "Peach"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "ERc9cFgBZrY",
+    "originalTitle": "Gar #53 Melee Singles — WR2 — Boom ⟮Falco⟯ vs Bodunga of the Pooplands ⟮Peach⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10066,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Jeo",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "ShotoNC",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "G0fg0zKfnww",
+    "originalTitle": "Gar #53 Melee Singles — LR4 — Jeo ⟮Fox⟯ vs ShotoNC ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10067,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "MonchaCronch",
+          "characters": [
+            "Yoshi"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "ragglor",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "GRDvjtSflmM",
+    "originalTitle": "Gar #53 Melee Singles — WR1 — MonchaCronch ⟮Yoshi⟯ vs ragglor ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10068,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "HEAT ADVISORY",
+          "characters": [
+            "Falcon"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "BluePlayer",
+          "characters": [
+            "GW"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "HEmA9ZJJUcU",
+    "originalTitle": "Gar #53 Melee Singles — WR1 — HEAT ADVISORY ⟮Falcon⟯ vs BluePlayer ⟮GW⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10069,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Mr.Destruction",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "jared",
+          "characters": [
+            "Luigi"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "I00bmF-_AyU",
+    "originalTitle": "Gar #53 Melee Singles — LR1 — Mr.Destruction ⟮Fox⟯ vs jared ⟮Luigi⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10070,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Jeo",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "cloink",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "LCPiFcK--JU",
+    "originalTitle": "Gar #53 Melee Singles — WR1 — Jeo ⟮Fox⟯ vs cloink ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10071,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Sarlo",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Steak",
+          "characters": [
+            "Doc"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "LdNTU2KFb24",
+    "originalTitle": "Gar #53 Melee Singles — WQF — Sarlo ⟮Fox⟯ vs Steak ⟮Doc⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10072,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Wave",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "ragglor",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "LusdgjJNwIM",
+    "originalTitle": "Gar #53 Melee Singles — LR3 — Wave ⟮Marth⟯ vs ragglor ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10073,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "hunter",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Nibbler",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "-DEkoK3yX-I",
+    "originalTitle": "Gar #53 Melee Singles — LR1 — hunter ⟮Falco⟯ vs Nibbler ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10074,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Bope!",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Nak",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "0a8Lnl9lwj0",
+    "originalTitle": "Gar #53 Melee Singles — LR3 — Bope! ⟮Fox⟯ vs Nak ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10075,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "hunter",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "iphone",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "3S2Zi3uOy6U",
+    "originalTitle": "Gar #53 Melee Singles — WR1 — hunter ⟮Falco⟯ vs iphone ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10076,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Balloon Day",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "STUNNER VETERAN",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "3nFBSjfIWSE",
+    "originalTitle": "Gar #53 Melee Singles — WR2 — Balloon Day ⟮Fox⟯ vs STUNNER VETERAN ⟮Falco⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10077,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Sarlo",
+          "characters": [
+            "Fox",
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": [
+            "Peach",
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "3xIMd83sugc",
+    "originalTitle": "Gar #53 Melee Singles — WSF — Sarlo ⟮Fox, Marth⟯ vs Bodunga of the Pooplands ⟮Peach, Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10078,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Wave",
+          "characters": [
+            "Marth"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "cloink",
+          "characters": [
+            "Sheik"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "4Bu9M7DfM88",
+    "originalTitle": "Gar #53 Melee Singles — LR2 — Wave ⟮Marth⟯ vs cloink ⟮Sheik⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10079,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Boom",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Mr.Destruction",
+          "characters": [
+            "Marth",
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "68PJVxBkKAE",
+    "originalTitle": "Gar #53 Melee Singles — LR3 — Boom ⟮Falco⟯ vs Mr.Destruction ⟮Marth, Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10080,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "bum3hundred",
+          "characters": [
+            "Falco"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "BY15",
+          "characters": [
+            "Sheik",
+            "Marth"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "7-s6KzgUI-8",
+    "originalTitle": "Gar #53 Melee Singles — WR1 — bum3hundred ⟮Falco⟯ vs BY15 ⟮Sheik, Marth⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10081,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Bodunga of the Pooplands",
+          "characters": [
+            "Peach"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "Jeo",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "7Xrki_K6Fgw",
+    "originalTitle": "Gar #53 Melee Singles — WQF — Bodunga of the Pooplands ⟮Peach⟯ vs Jeo ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10082,
+    "type": "singles",
+    "tournament": "Gar 53",
+    "date": "2025-09-03",
+    "sides": [
+      [
+        {
+          "name": "Balloon Day",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ],
+      [
+        {
+          "name": "iphone",
+          "characters": [
+            "Fox"
+          ]
+        }
+      ]
+    ],
+    "youtubeId": "9OmG7NkFuE0",
+    "originalTitle": "Gar #53 Melee Singles — WQF — Balloon Day ⟮Fox⟯ vs iphone ⟮Fox⟯",
+    "confidence": "high",
+    "tags": [
+      "gar53",
+      "gar"
+    ]
+  },
+  {
+    "id": 10083,
+    "type": "doubles",
+    "tournament": "Smob",
+    "date": "2025-09-02",
+    "sides": [
+      [
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        },
+        {
+          "name": "Steak",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Balloon Day",
+          "characters": []
+        },
+        {
+          "name": "iphone",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "xQayLqfLzmM",
+    "originalTitle": "Smob Melee Doubles — LQF — Ferriswheel, Steak vs Balloon Day, iphone",
+    "confidence": "high",
+    "tags": [
+      "smob1"
+    ]
+  },
+  {
+    "id": 10084,
+    "type": "doubles",
+    "tournament": "Smob",
+    "date": "2025-09-02",
+    "sides": [
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "Free Palestine",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Balloon Day",
+          "characters": []
+        },
+        {
+          "name": "iphone",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "hXbXRnogaYs",
+    "originalTitle": "Smob Melee Doubles — LF — Charlie Wu, Free Palestine vs Balloon Day, iphone",
+    "confidence": "high",
+    "tags": [
+      "smob1"
+    ]
+  },
+  {
+    "id": 10085,
+    "type": "doubles",
+    "tournament": "Smob",
+    "date": "2025-09-02",
+    "sides": [
+      [
+        {
+          "name": "M1sf1re",
+          "characters": []
+        },
+        {
+          "name": "Holiday",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Free Palestine",
+          "characters": []
+        },
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "co_f6VV87zI",
+    "originalTitle": "Smob Melee Doubles — GF — M1sf1re, Holiday vs Free Palestine, Charlie Wu",
+    "confidence": "high",
+    "tags": [
+      "smob1"
+    ]
+  },
+  {
+    "id": 10086,
+    "type": "doubles",
+    "tournament": "Smob",
+    "date": "2025-09-02",
+    "sides": [
+      [
+        {
+          "name": "Holiday",
+          "characters": []
+        },
+        {
+          "name": "M1sf1re",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "Free Palestine",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "1X4sZFa10ew",
+    "originalTitle": "Smob Melee Doubles — WF — Holiday, M1sf1re vs Charlie Wu, Free Palestine",
+    "confidence": "high",
+    "tags": [
+      "smob1"
+    ]
+  },
+  {
+    "id": 10087,
+    "type": "doubles",
+    "tournament": "Smob",
+    "date": "2025-09-02",
+    "sides": [
+      [
+        {
+          "name": "Grant",
+          "characters": []
+        },
+        {
+          "name": "Gus",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Swervey",
+          "characters": []
+        },
+        {
+          "name": "Mr Destruction",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "G8Ut7619h0k",
+    "originalTitle": "Smob Melee Doubles — WR1 — Grant, Gus vs Swervey, Mr Destruction",
+    "confidence": "high",
+    "tags": [
+      "smob1"
+    ]
+  },
+  {
+    "id": 10088,
+    "type": "doubles",
+    "tournament": "Smob",
+    "date": "2025-09-02",
+    "sides": [
+      [
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        },
+        {
+          "name": "Steak",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "Free Palestine",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "GYtPS4FwlkU",
+    "originalTitle": "Smob Melee Doubles — WSF — Ferriswheel, Steak vs Charlie Wu, Free Palestine",
+    "confidence": "high",
+    "tags": [
+      "smob1"
+    ]
+  },
+  {
+    "id": 10089,
+    "type": "doubles",
+    "tournament": "Smob",
+    "date": "2025-09-02",
+    "sides": [
+      [
+        {
+          "name": "dark beast",
+          "characters": []
+        },
+        {
+          "name": "Bope!",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "shoesoup",
+          "characters": []
+        },
+        {
+          "name": "Ceej",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "ajRicpPTeEk",
+    "originalTitle": "Smob Melee Doubles — WR1 — dark beast, Bope! vs shoesoup, Ceej",
+    "confidence": "high",
+    "tags": [
+      "smob1"
+    ]
+  },
+  {
+    "id": 10090,
+    "type": "doubles",
+    "tournament": "Smob",
+    "date": "2025-09-02",
+    "sides": [
+      [
+        {
+          "name": "Holiday",
+          "characters": []
+        },
+        {
+          "name": "M1sf1re",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "ShotoNC",
+          "characters": []
+        },
+        {
+          "name": "Jeo",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "cTOSeiDlGnk",
+    "originalTitle": "Smob Melee Doubles — WSF — Holiday, M1sf1re vs ShotoNC, Jeo",
+    "confidence": "high",
+    "tags": [
+      "smob1"
+    ]
+  },
+  {
+    "id": 10091,
+    "type": "doubles",
+    "tournament": "Smob",
+    "date": "2025-09-02",
+    "sides": [
+      [
+        {
+          "name": "Ferriswheel",
+          "characters": []
+        },
+        {
+          "name": "Steak",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Boom",
+          "characters": []
+        },
+        {
+          "name": "MewtWoman",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "uyuRW5rAXek",
+    "originalTitle": "Smob Melee Doubles — WQF — Ferriswheel, Steak vs Boom, MewtWoman",
+    "confidence": "high",
+    "tags": [
+      "smob1"
+    ]
+  },
+  {
+    "id": 10092,
+    "type": "doubles",
+    "tournament": "Smob",
+    "date": "2025-09-02",
+    "sides": [
+      [
+        {
+          "name": "Jeo",
+          "characters": []
+        },
+        {
+          "name": "ShotoNC",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Boom",
+          "characters": []
+        },
+        {
+          "name": "MewtWoman",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "dShRVlPLaj0",
+    "originalTitle": "Smob Melee Doubles — LQF — Jeo, ShotoNC vs Boom, MewtWoman",
+    "confidence": "high",
+    "tags": [
+      "smob1"
+    ]
+  },
+  {
+    "id": 10093,
+    "type": "doubles",
+    "tournament": "Smob",
+    "date": "2025-09-02",
+    "sides": [
+      [
+        {
+          "name": "Bope!",
+          "characters": []
+        },
+        {
+          "name": "dark beast",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Charlie Wu",
+          "characters": []
+        },
+        {
+          "name": "Free Palestine",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "nBuTS9U1Kbo",
+    "originalTitle": "Smob Melee Doubles — WQF — Bope!, dark beast vs Charlie Wu, Free Palestine",
+    "confidence": "high",
+    "tags": [
+      "smob1"
+    ]
+  },
+  {
+    "id": 10094,
+    "type": "doubles",
+    "tournament": "Smob",
+    "date": "2025-09-02",
+    "sides": [
+      [
+        {
+          "name": "MewtWoman",
+          "characters": []
+        },
+        {
+          "name": "Boom",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Grant",
+          "characters": []
+        },
+        {
+          "name": "Gus",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "r89Sk97uSMs",
+    "originalTitle": "Smob Melee Doubles — LR1 — MewtWoman, Boom vs Grant, Gus",
+    "confidence": "high",
+    "tags": [
+      "smob1"
+    ]
+  },
+  {
+    "id": 10095,
+    "type": "doubles",
+    "tournament": "Smob",
+    "date": "2025-09-02",
+    "sides": [
+      [
+        {
+          "name": "iphone",
+          "characters": []
+        },
+        {
+          "name": "Balloon Day",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "ShotoNC",
+          "characters": []
+        },
+        {
+          "name": "Jeo",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "Que-ImZAxM0",
+    "originalTitle": "Smob Melee Doubles — LSF — iphone, Balloon Day vs ShotoNC, Jeo",
+    "confidence": "high",
+    "tags": [
+      "smob1"
+    ]
+  },
+  {
+    "id": 10096,
+    "type": "doubles",
+    "tournament": "Smob",
+    "date": "2025-09-02",
+    "sides": [
+      [
+        {
+          "name": "iphone",
+          "characters": []
+        },
+        {
+          "name": "Balloon Day",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "shoesoup",
+          "characters": []
+        },
+        {
+          "name": "Ceej",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "Uw2cTDjktio",
+    "originalTitle": "Smob Melee Doubles — LR1 — iphone, Balloon Day vs shoesoup, Ceej",
+    "confidence": "high",
+    "tags": [
+      "smob1"
+    ]
+  },
+  {
+    "id": 10097,
+    "type": "doubles",
+    "tournament": "Smob",
+    "date": "2025-09-02",
+    "sides": [
+      [
+        {
+          "name": "MewtWoman",
+          "characters": []
+        },
+        {
+          "name": "Boom",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Bope!",
+          "characters": []
+        },
+        {
+          "name": "dark beast",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "Jgm7LQGA68c",
+    "originalTitle": "Smob Melee Doubles — LR2 — MewtWoman, Boom vs Bope!, dark beast",
+    "confidence": "high",
+    "tags": [
+      "smob1"
+    ]
+  },
+  {
+    "id": 10098,
+    "type": "doubles",
+    "tournament": "Smob",
+    "date": "2025-09-02",
+    "sides": [
+      [
+        {
+          "name": "iphone",
+          "characters": []
+        },
+        {
+          "name": "Balloon Day",
+          "characters": []
+        }
+      ],
+      [
+        {
+          "name": "Mr Destruction",
+          "characters": []
+        },
+        {
+          "name": "Swervey",
+          "characters": []
+        }
+      ]
+    ],
+    "youtubeId": "GycqWe-_czw",
+    "originalTitle": "Smob Melee Doubles — LR2 — iphone, Balloon Day vs Mr Destruction, Swervey",
+    "confidence": "high",
+    "tags": [
+      "smob1"
+    ]
   }
 ]
